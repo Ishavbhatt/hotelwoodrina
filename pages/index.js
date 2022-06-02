@@ -153,7 +153,7 @@ export default function Home() {
   // }, []);
 
   return (
-    <div>
+    <>
       <Head>
         <link rel="icon" href="favicon.png" />
         <title>Hotel Woodrina</title>
@@ -518,6 +518,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-    </div>
+    </>
   );
 }
