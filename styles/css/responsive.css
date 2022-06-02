@@ -1,0 +1,690 @@
+@media (min-width: 320px) and (max-width: 767px) {
+  .header {
+    padding: 16px 0;
+  }
+  .menu-btn {
+    display: block;
+  }
+  .flex-between {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .post_column {
+    padding: 10px 0;
+  }
+  .banner {
+    background-size: cover;
+    height: 50vh;
+  }
+  .panel_sidebar {
+    /* position: relative; */
+    display: none;
+  }
+  .bnr-booking {
+    width: auto;
+  }
+  .check-in-out-container .pick-dates {
+    width: 80px;
+    text-align: center;
+  }
+  .check-in-out-container label {
+    font-size: 12px;
+    letter-spacing: 0ch;
+    font-weight: 700;
+  }
+  .date-picker input::placeholder {
+    font-weight: 800;
+    font-size: 12px;
+  }
+  .date-picker input {
+    width: 60px;
+    text-align: center;
+    font-size: 10px;
+  }
+  .react-datepicker__input-container::after {
+    right: 25px;
+    top: 20px;
+  }
+  .people {
+    font-size: 12px;
+    font-weight: 500;
+  }
+  /* .banner-book-btn {
+    width: 70px;
+  } */
+  .banner-book-btn .common_arrow {
+    margin-left: 0;
+  }
+  .rooms-para {
+    text-align: center;
+  }
+  .room_suit_left.fixed {
+    position: relative;
+  }
+  .fixedweather {
+    display: none;
+  }
+  .weather-temp {
+    font-size: 20px;
+  }
+  .booked-wzsp-prime-data {
+    display: flex;
+    flex-direction: column;
+  }
+  .common_padding {
+    padding: 40px 0px;
+  }
+  .common_arrow::after {
+    right: -7px;
+    height: 26px;
+    width: 25px;
+    top: -5px;
+  }
+  body .common_title {
+    text-align: center !important;
+    font-size: 30px;
+  }
+  .test-title {
+    font-size: 30px;
+  }
+  .logo img {
+    max-width: 155px;
+    position: relative;
+    z-index: 99;
+  }
+  .header.header_fixed {
+    top: 0;
+  }
+  .header_right {
+    margin-top: -36px !important;
+  }
+  .header .navbar {
+    transform: none;
+    overflow: visible;
+  }
+  .header_fixed .header_bottom {
+    padding: 10px 0;
+  }
+  .header.header_fixed .header_right {
+    padding-top: 0;
+  }
+  .header .navbar:hover .navbar-collapse {
+    transform: translateX(100%);
+  }
+  .navbar-collapse {
+    background-color: #e29554;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    z-index: 999;
+    width: 100%;
+    text-align: left;
+    display: block !important;
+    height: 100%;
+    padding: 10px 0;
+    transition: all ease-in-out 0.4s;
+    transform: translateX(200%) !important;
+  }
+  #bs-example-navbar-collapse-1 {
+    display: block;
+    width: 85%;
+  }
+  .header .navbar ul li a:hover,
+  .header .navbar ul li.active a {
+    border-bottom-color: #fff;
+  }
+  .header .navbar .navbar-nav {
+    flex-direction: column;
+  }
+  .show_menu {
+    transform: translateX(0%) !important;
+  }
+  /* .close_nav {
+      position: fixed;
+      top: 0px;
+      right: -48px;
+      width: 49px;
+      background-color: #5C366C;
+      color: #fff !important;
+      text-align: center;
+      padding: 10px 0;
+      font-size: 24px;
+      display: block;
+    } */
+  .header .navbar ul li {
+    padding: 10px 18px;
+  }
+  .header .navbar ul li a {
+    padding: 0px !important;
+    color: #fff;
+    border: none;
+  }
+  .header .navbar ul li a:hover,
+  .header .navbar ul li.active a {
+    color: #000;
+  }
+  .header .navbar:hover .header_toggle {
+    transform: translateX(0%);
+  }
+  .book_appointment {
+    float: none;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+    height: 48px;
+    margin: 0;
+    background-color: #22302a;
+    text-align: center;
+    box-shadow: 0px -1px 2px #e29554;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .banner_text h1 {
+    font-size: 24px;
+  }
+  .about_hotel,
+  .wedding_col,
+  .restaurant_col,
+  .about_hotel_col {
+    padding: 30px 0;
+  }
+  .about_hotel_text .common_arrow {
+    top: 3px;
+  }
+  .menu_title {
+    font-size: 24px;
+  }
+  .menu_item_left,
+  .menu_item_right {
+    font-size: 16px;
+  }
+  .about_hotel_image,
+  .restaurant_image,
+  .wedding_services_image {
+    max-width: 270px;
+    height: 250px;
+    background-size: cover;
+    position: relative;
+    margin-top: 20px;
+    background-position: center;
+    margin: 25px auto 0;
+  }
+  .about_hotel_image::before,
+  .restaurant_image::before,
+  .wedding_services_image::before {
+    bottom: -18px;
+    right: -18px;
+  }
+  #testimonials_slider {
+    margin-top: 20px;
+  }
+  .rooms-subtitle,
+  .attr-subtitle,
+  .gallery-subtitle,
+  .health-subtitle,
+  .contact-subtitle,
+  .about-subtitle {
+    text-align: center;
+  }
+  .rooms_slider_column {
+    margin: 0px !important;
+  }
+  .rooms_slider_text {
+    padding: 40px 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+  }
+  .columns {
+    padding: 0px !important;
+  }
+  .rooms_slider .owl-nav {
+    margin: 0px !important;
+    justify-content: center;
+    /* align-items: end;
+    bottom: 0; */
+  }
+  .rooms_slider .owl-nav button {
+    width: 50px;
+    height: 50px;
+  }
+  .rooms_slider {
+    margin-top: 30px;
+  }
+  .rooms_slider_image {
+    width: 100%;
+    height: 270px;
+    margin: auto;
+  }
+  .room_price {
+    bottom: 30px;
+    right: 50%;
+  }
+  .testimonials_section .owl-dots {
+    margin-top: 20px !important;
+  }
+  .testimonials_section .col-md-6.col-sm-12.text-left {
+    text-align: center !important;
+  }
+  .posts_section::before {
+    height: 76px;
+    top: -48px;
+  }
+  .post_column_image {
+    margin: 0px auto 10px;
+  }
+  .posts_section p {
+    text-align: center;
+  }
+  .posts_section_btn {
+    justify-content: center;
+    margin-top: 20px;
+  }
+  .post_column {
+    margin-top: 30px;
+  }
+  .post_column p {
+    text-align: left;
+  }
+  .footer_section {
+    padding: 40px 0px 60px;
+  }
+  .copyright {
+    text-align: center;
+  }
+  .f_newsletter {
+    margin: 30px 0;
+  }
+  .f_logo img {
+    max-width: 180px;
+  }
+  .footer_address_left,
+  .footer_address_right {
+    padding: 30px 20px !important;
+    height: auto;
+  }
+  .footer_upper {
+    margin-bottom: 20px;
+  }
+  .footer_bottom_column span {
+    float: none;
+  }
+  body .footer_bottom_column {
+    text-align: center !important;
+  }
+  .common_page_header .common_page_header_title h2 {
+    text-align: left !important;
+  }
+  /* .attraction_section {
+    padding-top: 50px;
+  } */
+  .attraction_section .common_title {
+    font-size: 25px;
+    text-align: left !important;
+    margin: 20px 0 !important;
+  }
+  .gallery_section h2,
+  .about_hotel_text .common_title {
+    font-size: 25px;
+    text-align: left !important;
+  }
+  .attraction_section .owl-nav button,
+  .single_room_banner_slider .owl-nav button {
+    width: 38px;
+    /* height: 22px; */
+    background-size: 30px !important;
+  }
+  .attraction_column {
+    height: 400px;
+    /* margin-bottom: 10px; */
+  }
+  .activity-item,
+  .single-room-item {
+    margin-bottom: 20px;
+  }
+  .attraction_section .owl-nav {
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    width: 100%;
+    align-items: center;
+    bottom: 0;
+    top: 100%;
+  }
+  .contact_left p {
+    font-size: 16px !important;
+  }
+  .contact_right iframe {
+    height: 385px;
+    margin-top: 30px;
+  }
+  .contact_right img {
+    padding-top: 20px;
+  }
+  .contact_left .common_btn,
+  .contact_form form button {
+    margin-top: 12px;
+  }
+  .contact_form form {
+    padding: 30px 15px;
+  }
+  .contact_form form .form-group:nth-child(5) input {
+    border-left: 1px solid #c1c1c1;
+    border-top: 1px solid #c1c1c1;
+  }
+  .contact_form form .form-group.form-check {
+    font-weight: 100;
+    font-size: smaller;
+  }
+  .common_page_header_title p,
+  .contact-subtitle {
+    font-size: 17px !important;
+  }
+  /* .list_fixed {
+    position: relative;
+    top: 0;
+    width: 100%;
+  } */
+  .gallery_section {
+    margin-bottom: 0;
+    margin-top: 25px;
+  }
+  .gallery-col-md-12 {
+    padding: 20px;
+  }
+  .gallery_section .col-md-12 {
+    padding: 0px;
+  }
+  .gallery-sec .owl-nav {
+    position: relative;
+    float: right;
+    right: 0;
+    margin: 0px !important;
+  }
+  .gallery_slider_column {
+    height: 350px;
+  }
+  .safety_section .safety_section_text,
+  .safety_section .menu_section_text {
+    order: 2;
+  }
+  .safety_section {
+    padding-top: 0 !important;
+  }
+  .safety_section_image div {
+    height: 260px;
+    margin-bottom: 20px;
+    margin: 0px auto 20px;
+    background-position: top;
+  }
+  .menu_section_image div {
+    height: 260px;
+    margin-bottom: 20px;
+    margin: 0px auto 20px;
+    background-position: top;
+  }
+  .safety_section_text h3 {
+    font-size: 22px;
+    margin-bottom: 0 !important;
+  }
+  .about_hotel_right,
+  .wedding_services_right {
+    order: 2;
+  }
+  .about_hotel_text h2 {
+    font-size: 30px;
+  }
+
+  .spy_section .about_hotel .container,
+  .spy_section .wedding_col .container,
+  .spy_section .restaurant_col .container, 
+  .spy_section .about_hotel_col .container {
+    padding: 0px;
+  }
+  .spy_section .about_hotel,
+  .spy_section .wedding_col,
+  .spy_section .restaurant_col,
+  .spy_section .about_hotel_col {
+    padding: 30px 0;
+  }
+  .scrollspy-example {
+    padding-bottom: 20px;
+  }
+  .scrollspy-example .about_hotel_image::before,
+  .scrollspy-example .restaurant_image::before,
+  .scrollspy-example .wedding_services_image::before {
+    left: -10px;
+    bottom: -10px;
+  }
+  .scrollspy-example .spy_section:nth-child(2n + 2) .about_hotel_image::before,
+  .scrollspy-example .spy_section:nth-child(2n + 2) .restaurant_image::before,
+  .scrollspy-example
+    .spy_section:nth-child(2n + 2)
+    .wedding_services_image::before {
+    right: -10px;
+    bottom: -10px;
+    left: auto;
+  }
+  .single-room-banner {
+    height: 50vh;
+  }
+  .single_room_banner_column {
+    background-size: cover;
+    background-position: center;
+  }
+  .room_page_desc .about_hotel_text .room_price {
+    position: relative;
+    right: 0;
+    margin-bottom: 10px;
+  }
+  .room_page_desc h2 span {
+    display: inline;
+  }
+  .single_room_banner_slider .owl-nav button {
+    height: 35px;
+    width: 59px;
+  }
+  .facilities_section .common_title {
+    font-size: 30px;
+  }
+  .facilities_section .col-sm-6,
+  .wedding_highlights .col-sm-6 {
+    width: 50%;
+  }
+  .wedding_highlights_col {
+    width: 50%;
+  }
+  .facilities_column span {
+    display: flex;
+    width: 90px;
+    height: 90px;
+  }
+  .wedding_highlights_col {
+    margin: 10px 0;
+  }
+  .facilities_column span img {
+    max-width: 32px;
+  }
+  .other_room_section
+    .activities_slider
+    .attraction_column
+    .attraction_column_title {
+    width: auto;
+    max-width: 210px;
+    margin: 0;
+    left: 15px;
+  }
+  .other_room_section
+    .activities_slider
+    .attraction_column
+    .attraction_column_title
+    h3 {
+    font-size: 19px;
+  }
+  .other_room_section
+    .activities_slider
+    .attraction_column
+    .attraction_column_title::after {
+    border-top: 57px solid transparent;
+    border-bottom: 0 solid transparent;
+    border-left: 40px solid #e2955499;
+    right: -40px;
+  }
+  .carousel-root {
+    outline: 0;
+    width: 93% !important;
+    margin: auto !important;
+  }
+
+  .carousel.carousel-slider .control-arrow {
+    display: none !important;
+  }
+  .myCarousel {
+    background: #fafafa;
+    margin-top: -9%;
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8%;
+    padding-bottom: 12.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 1px solid #ddd;
+    height: 269px;
+  }
+
+  .carousel .slide img {
+    width: 24% !important;
+    border-radius: 50%;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+  .facilities_section .col-sm-6 {
+    width: 33.33%;
+    max-width: 33.33%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1400px) {
+  /* .weather_div {
+    min-width: 768px;
+  } */
+  .header .navbar ul li {
+    padding-left: 20px;
+  }
+  .header .navbar ul li a {
+    font-size: 14px;
+  }
+  .common_padding {
+    padding: 60px 0px;
+  }
+  .common_title {
+    font-size: 34px;
+  }
+  .test-title {
+    font-size: 34px;
+  }
+  .banner_text h1 {
+    font-size: 58px;
+  }
+  .about_hotel_image,
+  .restaurant_image,
+  .wedding_services_image {
+    height: 380px;
+  }
+  .about_hotel_text h2 {
+    font-size: 42px;
+  }
+  .rooms_slider_text {
+    padding-right: 30px;
+  }
+  .post_column_image {
+    width: 100%;
+  }
+  .f_logo img {
+    max-width: 190px;
+  }
+  .footer_address_left,
+  .footer_address_right {
+    padding: 50px 20px !important;
+    height: 450px;
+  }
+  .footer_bottom_column li {
+    margin-right: 10px;
+  }
+  .about_hotel_image::before,
+  .restaurant_image::before,
+  .wedding_services_image::before {
+    bottom: -10px;
+    right: -10px;
+    z-index: -1;
+  }
+  .contact_form form {
+    padding: 60px 40px;
+  }
+  .safety_section {
+    padding-top: 0 !important;
+  }
+  .safety_section_image div {
+    height: 400px;
+    max-width: 570px;
+  }
+  .menu_section_image div {
+    height: 100%;
+    max-width: 570px;
+  }
+  /* .list_fixed {
+    width: 120px;
+  } */
+  .scrollspy-example .about_hotel_text .common_title {
+    margin-top: 10px !important;
+    font-size: 26px;
+  }
+
+  .about_hotel,
+  .wedding_col,
+  .restaurant_col,
+  .about_hotel_col {
+    padding-bottom: 70px;
+  }
+  .menu-btn,
+  .mobile-header {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .book_appointment {
+    width: 130px;
+  }
+  /* .room_page_desc .about_hotel_text .room_price {
+    position: relative;
+  } */
+  .panel_sidebar {
+    width: 120px;
+    left: 0;
+  }
+}
+
+@media (min-width: 1401px) and (max-width: 1500px) {
+  .rooms_slider_text {
+    padding: 40px 65px;
+    padding-right: 20px;
+  }
+  .menu-btn,
+  .mobile-header {
+    display: none;
+  }
+}
+@media (min-width: 1500px) and (max-width: 1600px) {
+  .rooms_slider_text {
+    padding: 40px 65px;
+    padding-right: 20px;
+  }
+  .menu-btn,
+  .mobile-header {
+    display: none;
+  }
+}
