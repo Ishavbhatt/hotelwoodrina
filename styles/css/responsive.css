@@ -113,7 +113,7 @@
     transform: translateX(100%);
   }
   .navbar-collapse {
-    background-color: #e29554;
+    background-color: #8CC440;
     position: fixed;
     top: 0px;
     right: 0px;
@@ -175,9 +175,9 @@
     left: 0px;
     height: 48px;
     margin: 0;
-    background-color: #22302a;
+    background-color: #37392d;
     text-align: center;
-    box-shadow: 0px -1px 2px #e29554;
+    box-shadow: 0px -1px 2px #8CC440;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -530,7 +530,7 @@
     .attraction_column_title::after {
     border-top: 57px solid transparent;
     border-bottom: 0 solid transparent;
-    border-left: 40px solid #e2955499;
+    border-left: 40px solid #8CC44099;
     right: -40px;
   }
   .carousel-root {

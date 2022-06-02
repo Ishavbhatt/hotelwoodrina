@@ -29,7 +29,16 @@ function Termsandconditions() {
         <div className="container">
           <div className="row">
             <div className="col-lg-12 col-md-12 col-sm-12 privacy_column">
-            <h3>Welcome to the website of Bob’s N Barley, Mcleodganj.</h3>
+              <h3>Introduction</h3>
+              <p>
+                The terms and conditions stated below (“Conditions”) apply to
+                your use of this website, including the utilization of the data
+                services offered on the website. In accessing and using the
+                site, you conform to be bound by these Conditions so please
+                carefully read this section before proceeding. If you don’t
+                accept these Conditions, you want to refrain from using the
+                website.
+              </p>
             </div>
           </div>
         </div>
@@ -39,58 +48,97 @@ function Termsandconditions() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 privacy_column">
-              <p>
-                If you continue to browse and use this website, you are agreeing
-                to comply with and be bound by the following terms and
-                conditions of use, which together with our privacy policy govern
-                Bob’s N Barley’s relationship with you about this website.
-              </p>
-            </div>
-
-            <div className="col-md-12 privacy_column">
-              <p>
-                If you disagree with any part of these terms and conditions,
-                please do not use our website. Neither we nor any third parties
-                provide any warranty or guarantee as to the accuracy,
-                timeliness, performance, completeness, or suitability of the
-                information and materials found or offered on this website for
-                any particular purpose.
-              </p>
-            </div>
-
-            <div className="col-md-12 privacy_column">
-              <p>
-                Your use of any information or materials on this website is
-                entirely at your own risk, for which we shall not be liable. It
-                shall be your own responsibility to ensure that any products.
-              </p>
-            </div>
-
-            <div className="col-md-12 privacy_column">
-              <h3 className="padding-t-20">Your Use</h3>
-              <p>
-                This website contains material which is owned by or licensed to
-                us. This material includes, but is not limited to, the design,
-                layout, look, appearance, and graphics.
-              </p>
-            </div>
-
-            <div className="col-md-12 privacy_column">
-              <p>
-                Reproduction is prohibited other than in accordance with the
-                copyright notice. All trademarks reproduced in this website
-                which is not the property of, or licensed to, the operator is
-                acknowledged on the website.
-              </p>
-            </div>
-
-            <div className="col-md-12 privacy_column">
-              <p>
-                From time to time this website may also include links to other
-                websites. These links are provided for your convenience to
-                provide further information. They do not signify that we endorse
-                the website(s).
-              </p>
+              <h3>Conditons</h3>
+              <ul>
+                <li>Site</li>
+                <p>
+                  The Site makes available information concerning the hotel
+                  under the laws of India, and its subsidiaries, controlled
+                  entities, affiliates, associates, and related parties.
+                </p>
+                <li>Trade Marks</li>
+                <p>
+                  The Site contains trade and service marks and devices and
+                  other valuable trade or service marks owned by Hotel Woodrina
+                  or licensed to Hotel Woodrina to differentiate its services
+                  and products.
+                </p>
+                <li>Copyright</li>
+                <p>
+                  The information, text, graphics, images, sounds, links, and
+                  everyone other information published or otherwise contained
+                  within the Site (“Information”) are either owned exclusively
+                  by Hotel Woodrina or licensed by Hotel Woodrina and except as
+                  specifically provided in these Conditions might not be copied,
+                  distributed, displayed, reproduced or transmitted, in any form
+                  or by any means whether electronic, mechanical, photocopying,
+                  recording, or otherwise, without the prior written approval of
+                  Hotel Woodrina. Information procured from a 3rd party could
+                  also be the topic of copyright owned by that third party.
+                </p>
+                <li>Your Use</li>
+                <p>
+                  The Site is for your personal non-commercial use and therefore
+                  the Information could also be downloaded or printed by you
+                  solely for that purpose. This right to use the knowledge may
+                  be a license only, not a transfer of title, and is subject to
+                  the subsequent restrictions:
+                </p>
+                <ul>
+                  <li>
+                    The Information might not be used for any commercial purpose
+                    or public display, performance, sale, or rental.
+                  </li>
+                  <li>
+                    No copyright or other proprietary notices could also be
+                    removed.
+                  </li>
+                  <li>
+                    Information might not be transferred to a different person.
+                  </li>
+                  <li>
+                    You will only use the knowledge for lawful purposes and
+                    under these Conditions.
+                  </li>
+                </ul>
+                <li>Specific Warnings</li>
+                <p>
+                  You must make sure that your access to and your use of the
+                  website isn’t illegal or prohibited by laws which apply to
+                  you. you want to take your precautions for accessing the
+                  website. Without limitation, you’re liable for ensuring that
+                  your computing system meets all relevant technical
+                  specifications necessary to use the website and is compatible
+                  with the website. You’re liable for taking sufficient
+                  precautions and checks to satisfy your particular requirements
+                  for accuracy of knowledge input and output. you want to make
+                  sure that any information which you provide to Hotel Woodrina
+                  is accurate and complete and doesn’t contain any virus,
+                  malicious code, computer virus routine or process, or other
+                  sorts of interference which can damage the system of Hotel
+                  Woodrina.
+                </p>
+                <li>Security & Non Confidentiality</li>
+                <p>
+                  Electronic transmissions of knowledge including the web are
+                  public media and any use of such media is public, not private.
+                  Information associated with or arising from such use is either
+                  public or the property of these collecting the knowledge and
+                  not personal or private information. Hotel Woodrina doesn’t
+                  warrant and can’t make sure the security or confidentiality of
+                  any information which you transmit to Hotel Woodrina.
+                  Accordingly, any information which you transmit to Hotel
+                  Woodrina is transmitted at your own risk.
+                </p>
+                <li>General</li>
+                <p>
+                  If any of those Conditions are invalid, unenforceable, or
+                  illegal for any reason, the remaining Conditions shall
+                  nevertheless continue full force. you’re completely liable for
+                  all charges, fees, duties, taxes, and assessments arising out
+                  of the utilization of the website.
+                </p>
+              </ul>
             </div>
 
             <div className="col-md-12 privacy_column text-center padding-t-20">

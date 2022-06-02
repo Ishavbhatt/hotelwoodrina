@@ -35,7 +35,7 @@ function roomsuites() {
             <div className="col-lg-10 col-md-10 col-sm-12 common_page_header_title pages-info">
               <h1 className="common_title white">Rooms & Suites</h1>
               <p className="rooms-subtitle">
-                The rooms at Golden Fern are designed with simple, timeless
+                The rooms at Hotel Woodrina are designed with simple, timeless
                 lines. Here you may find all the commodities needed for a
                 comfortable stay. All rooms are non-smoking.
               </p>
@@ -56,10 +56,10 @@ function roomsuites() {
                 id="sidebar"
               >
                 <li className="scrool-items">
-                  <Link href="#room1">PREMIUM ROOM</Link>
+                  <Link href="#room1">FAMILY SUITE</Link>
                 </li>
                 <li className="scrool-items">
-                  <Link href="#room2">SUPER DELUXE ROOM</Link>
+                  <Link href="#room2">COTTAGE ROOM</Link>
                 </li>
                 <li className="scrool-items">
                   <Link href="#room3">DELUXE ROOM</Link>
@@ -79,12 +79,12 @@ function roomsuites() {
                       </Fade>
                       <Fade top>
                         <div className="col-lg-5 col-md-5 col-sm-12 about_hotel_text">
-                          <h2 className="common_title">PREMIUM ROOM</h2>
-                          <p> A premium room is anything that the hotel deems is better than their standard, whether it is a higher floor, corner room, balcony, refrigerator, larger room, better view, etc. It means the room has more facilities than the standard room.
+                          <h2 className="common_title">FAMILY SUITE</h2>
+                          <p>The family suite is a combination of two big sized rooms, both the rooms have independent with separate entry with one bathroom. 1 suite is ideal for a family of 4 Adults or 4 pax. 
                           </p>
                           <a
                             className="common_arrow"
-                            href="/room-suites/premium-room"
+                            href="/room-suites/family-suite"
                           >
 <img src="/arrow-forward-outline.svg" alt="Icon" />                          </a>
                         </div>
@@ -106,14 +106,14 @@ function roomsuites() {
                       <Fade top>
                         <div className="col-lg-5 col-md-5 col-sm-12 about_hotel_text">
                           <h2 className="common_title">
-                          SUPER DELUXE ROOM
+                          COTTAGE ROOM
                           </h2>
                           <p>
-                          The Super deluxe hotel room is finely decorated for your luxurious stay and contains all basic amenities such as Color LCD with Cable, Large windows for the perfect valley views, cozy double bed, Resting chair, Dressing mirror, Mini Fridge, and 24 hrs running hot and cold water …
+                          11 cottage rooms is the unique selling feature of our property. The beautiful interior and open space around the cottage with the Lawn area make it a favorite for every guest to opt to stay and experience the hospitality at its best.
                           </p>
                           <a
                             className="common_arrow"
-                            href="/room-suites/super-deluxe-room"
+                            href="/room-suites/cottage-room"
                           >
                            <img src="/arrow-forward-outline.svg" alt="Icon" />
                           </a>
@@ -139,7 +139,7 @@ function roomsuites() {
                           DELUXE ROOM
                           </h2>
                           <p>
-                          A functionally arranged living space with furnishings such as a writing desk and parlor style chairs, and a spacious bathroom provide a leisurely feel. Deluxe Rooms are available on the Penthouse floor as well.
+                          Deluxe Rooms are located in the main Block at Woodrina. The total number of Deluxe Rooms in the Main block is 11. Every room in this block is spacious and equipped with modern facilities and interiors are done.
                           </p>
                           <a
                             className="common_arrow"

@@ -39,8 +39,8 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(true);
   const [data, setData] = useState(null);
   // const [feeds, setFeeds] = useState([]);
-  const lat = 32.253631006819326;
-  const long = 76.30272032878739;
+  const lat = 31.1048;
+  const long = 77.1734;
   const weatherapiKey = process.env.API_KEY;
   const weatherapiLink = process.env.API_LINK;
   // const instagramLink = process.env.INSTA_LINK;
@@ -156,7 +156,7 @@ export default function Home() {
     <div>
       <Head>
         <link rel="icon" href="favicon.png" />
-        <title>bobsnbarley</title>
+        <title>Hotel Woodrina</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <section className="banner">
@@ -169,8 +169,13 @@ export default function Home() {
                 </h2>
                 <h2>NATURE</h2>
                 <h2>in its purest form.</h2> */}
-                <h1 className="page__title"> 
-                Experience <span><br />Nature</span><br /> it is purification
+                <h1 className="page__title">
+                  Experience{" "}
+                  <span>
+                    <br />
+                    Nature
+                  </span>
+                  <br /> it is purification
                 </h1>
               </div>
             </div>
@@ -257,18 +262,18 @@ export default function Home() {
             <Fade top>
               <div className="col-lg-5 col-md-5 col-sm-12 about_hotel_text">
                 <h2 className="common_title">
-                  Bobs N Barley <br></br> Naddi
+                  Hotel Woodrina <br></br> Shimla
                   <a className="common_arrow" href="/about-us">
                     <img src="/arrow-forward-outline.svg" alt="Icon" />
                   </a>
                 </h2>
                 <p>
-                  Hotel Bob’s N Barley is located within easy driving distance
-                  from Dharamshala, it is just 54 minutes from Kangra Airport
-                  and 28 minutes from Dharamshala. The hotel is a perfect
-                  weekend getaway near Dharamshala where guests enjoy
-                  unparalleled facilities for relaxation and rejuvenation in the
-                  scenic Dhauladhar Hills.
+                  Located at the height of 7000 feet just 9 km from City Centre
+                  The Mall Road Shimla, We welcome you to Hotel Woodrina.
+                  Surround yourself to peace and thick Deodar Forest, Breathe
+                  and witness the breathtaking 360 - degree view and beautiful
+                  sunset from the Deck. Back in British Era the Hotel use to be
+                  the home of a British Army officer and his family.
                 </p>
               </div>
             </Fade>
@@ -299,23 +304,22 @@ export default function Home() {
                 <div className="index-room-item">
                   <div className="rooms_slider_column row">
                     <div className="col-md-7 columns">
-                      <div className="rooms_slider_image premium_slider_image">
+                      <div className="rooms_slider_image family_slider_image">
                         <div className="room_price">
                           <p>rates from</p>
-                          <h2>&#8377; 6500 /</h2>
+                          <h2>&#8377; 6000 /</h2>
                           <span>per night + 12% Tax</span>
                         </div>
                       </div>
                     </div>
                     <div className="col-md-5 columns">
                       <div className="rooms_slider_text">
-                        <h4>Premium Room</h4>
+                        <h4>Family Suite</h4>
                         <p>
-                          A premium room is anything that the hotel deems is
-                          better than their standard, whether it is a higher
-                          floor, corner room, balcony, refrigerator, larger
-                          room, better view, etc. It means the room has more
-                          facilities than the standard room.
+                          The family suite is a combination of two big sized
+                          rooms, both the rooms have independent with separate
+                          entry with one bathroom. 1 suite is ideal for a family
+                          of 4 Adults or 4 pax.
                         </p>
                         <a
                           className="common_arrow"
@@ -340,14 +344,13 @@ export default function Home() {
                     </div>
                     <div className="col-md-5 columns">
                       <div className="rooms_slider_text">
-                        <h4>Super Deluxe Room</h4>
+                        <h4>Cottage Rooms</h4>
                         <p>
-                          The Super deluxe hotel room is finely decorated for
-                          your luxurious stay and contains all basic amenities
-                          such as Color LCD with Cable, Large windows for the
-                          perfect valley views, cozy double bed, Resting chair,
-                          Dressing mirror, Mini Fridge, and 24 hrs running hot
-                          and cold water.
+                          11 cottage rooms is the unique selling feature of our
+                          property. The beautiful interior and open space around
+                          the cottage with the Lawn area make it a favorite for
+                          every guest to opt to stay and experience the
+                          hospitality at its best.
                         </p>
                         <a
                           className="common_arrow"
@@ -374,10 +377,11 @@ export default function Home() {
                       <div className="rooms_slider_text">
                         <h4>Deluxe Room</h4>
                         <p>
-                          A functionally arranged living space with furnishings
-                          such as a writing desk and parlor style chairs, and a
-                          spacious bathroom provide a leisurely feel. Deluxe
-                          Rooms are available on the Penthouse floor as well.
+                          Deluxe Rooms are located in the main Block at
+                          Woodrina. The total number of Deluxe Rooms in the Main
+                          block is 11. Every room in this block is spacious and
+                          equipped with modern facilities and interiors are
+                          done.
                         </p>
                         <a
                           className="common_arrow"
@@ -407,57 +411,22 @@ export default function Home() {
                 </p>
               </div>
             </Fade>
-
             <div className="col-md-12 padding-t-b-40 testimonials-dots">
               <OwlCarousel {...testmonials}>
                 <div className="test-item">
                   <div className="testi_column text-center">
                     <img src="/comma.png" alt="Icon" />
                     <p>
-                      We had a 3 nights stay at Bob'snBarley... Staff is
-                      extremely courteous. Food was very tasty they happily
-                      accepted and provided our special requests for the dishes
-                      especially Chinese n Idli too.
+                      Service is really good and nice place to stay. Very good
+                      food and well serviced from Sandeep, pritam and they are
+                      really good behavior. I will revisit this place. Hill play
+                      to take a view. Enjoy 2 day stay very peaceful.
                     </p>
                   </div>
                   <div className="triangle"></div>
                   <div className="testi_profile text-center">
                     <img src="/user.png" alt="Image" />
-                    <h5>Madhura Kulkarni</h5>
-                    <p>From Kerala</p>
-                  </div>
-                </div>
-                <div className="test-item">
-                  <div className="testi_column text-center">
-                    <img src="/comma.png" alt="Icon" />
-                    <p>
-                      Clean rooms and tasty foods of In-house
-                      restaurantBeautiful scenic view of DAULADAR MOUNTAIN
-                      RangeWith awesome staff and their serviceWith polite and
-                      humble peopleWhen visit DHARAMSHALA.
-                    </p>
-                  </div>
-                  <div className="triangle"></div>
-                  <div className="testi_profile text-center">
-                    <img src="/user.png" alt="Image" />
-                    <h5>Ameya Mhatre</h5>
-                    <p>From Kinnaur</p>
-                  </div>
-                </div>
-                <div className="test-item">
-                  <div className="testi_column text-center">
-                    <img src="/comma.png" alt="Icon" />
-                    <p>
-                      Best place to stay in Mcleodganj. A big shout-out to the
-                      Manager and support staff who were extremely
-                      courteous,humble and quick in service.Food was delicious
-                      and view from the room was superb.
-                    </p>
-                  </div>
-                  <div className="triangle"></div>
-                  <div className="testi_profile text-center">
-                    <img src="/user.png" alt="Image" />
-                    <h5>Mayur upasani</h5>
+                    <h5>Preetham Preethu</h5>
                     <p>From Delhi</p>
                   </div>
                 </div>
@@ -465,17 +434,34 @@ export default function Home() {
                   <div className="testi_column text-center">
                     <img src="/comma.png" alt="Icon" />
                     <p>
-                      Rooms were very neat and clean and big in size. Hotel
-                      staff including manager was very humble and courteous.
-                      There was variety in breakfast and main course with
-                      awesome taste. View from room was also very beautiful.
+                      Excellent staff, delightful dinner, and breakfast. Pritam,
+                      Suresh, and Sandeep were extraordinarily staffed that I
+                      have come across and I’ll visit again and recommend this
+                      hotel to everyone who visits Kufri
                     </p>
                   </div>
                   <div className="triangle"></div>
                   <div className="testi_profile text-center">
                     <img src="/user.png" alt="Image" />
-                    <h5>Prasad Kulkarni</h5>
+                    <h5>Vm biker malik</h5>
                     <p>From Delhi</p>
+                  </div>
+                </div>
+                <div className="test-item">
+                  <div className="testi_column text-center">
+                    <img src="/comma.png" alt="Icon" />
+                    <p>
+                      Food is tasty, Hotel is really nice and it’s rooms are
+                      neat and clean, luggage storage are also available in
+                      room. Their hospitality is awesome. Specially pritam and
+                      sandeep will serve you at their best.
+                    </p>
+                  </div>
+                  <div className="triangle"></div>
+                  <div className="testi_profile text-center">
+                    <img src="/user.png" alt="Image" />
+                    <h5>Shweta Ramchandani</h5>
+                    <p>From Chandigarh</p>
                   </div>
                 </div>
               </OwlCarousel>

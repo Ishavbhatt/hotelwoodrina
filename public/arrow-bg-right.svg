@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.326" height="125.326" viewBox="0 0 125.326 125.326">
+  <g id="arrow-bg-right" transform="translate(-1710.896 -2535.337)">
+    <g id="Group_15" data-name="Group 15" transform="translate(1719 2538)">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="88.619" height="88.619" transform="translate(54.559 -2.663) rotate(45)" fill="#37392d"/>
+      <g id="crousal-arrow-right" transform="translate(-1351.903 -2673.029)">
+        <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(1406.462 2686.588) rotate(45)" fill="none" stroke="#60cd62" stroke-width="2">
+          <rect width="65.677" height="65.677" rx="2" stroke="none"/>
+          <rect x="1" y="1" width="63.677" height="63.677" rx="1" fill="none"/>
+        </g>
+        <g id="crousal-arrow-right-2" data-name="crousal-arrow-right" transform="translate(1363.356 2719.449)">
+          <path id="Path_1" data-name="Path 1" d="M268,112l13.714,13.714L268,139.427" transform="translate(-231.735 -112)" fill="none" stroke="#60cd62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line id="Line_1" data-name="Line 1" x1="49.004" transform="translate(0 13.481)" fill="none" stroke="#60cd62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

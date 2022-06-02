@@ -18,7 +18,7 @@ const Navbar = () => {
                 <div className="col-lg-3 col-md-3 col-sm-12 logo">
                   <Link className="navbar-brand" href="/">
                     <img
-                      src="/bobs-n-barley-final-logo.svg"
+                      src="/hotel-woodrina-logo.png"
                       alt="Logo"
                       className="logo img-fluid"
                     />
@@ -91,7 +91,7 @@ const Navbar = () => {
             <div className="mobile-header-div">
               <div className=" col-lg-3 col-md-3 col-sm-10 logo">
                 <Link className="navbar-brand" href="/">
-                  <img src="/bobs-n-barley-final-logo.svg" alt="Logo" className="logo img-fluid" />
+                  <img src="/hotel-woodrina-logo.png" alt="Logo" className="logo img-fluid" />
                 </Link>
               </div>
               <div>

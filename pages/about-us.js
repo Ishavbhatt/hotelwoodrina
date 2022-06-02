@@ -7,11 +7,11 @@ function Aboutus() {
   return (
     <>
       <Head>
-        <title>About Bob's N Barley</title>
-        <meta property="og:title" content="About Bob's N Marley" />
+        <title>About Hotel Woodrina</title>
+        <meta property="og:title" content="About Hotel Woodrina" />
         <meta
           property="og:description"
-          content="Bob's N Marley "
+          content="Hotel Woodrina"
         />
       </Head>
 
@@ -19,7 +19,7 @@ function Aboutus() {
         <div className="container">
           <div className="row">
             <div className="col-lg-10 col-md-10 col-sm-12 common_page_header_title pages-info">
-              <h1 className="common_title white">About Bob's N Barley</h1>
+              <h1 className="common_title white">About Hotel Woodrina</h1>
               <p className="about-subtitle">
                 The rooms at Golden Fern are designed with simple, timeless
                 lines. Here you may find all the commodities needed for a

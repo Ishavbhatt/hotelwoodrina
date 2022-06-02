@@ -63,15 +63,15 @@ function Attractionactivities() {
 
       <Head>
         <title>
-          Popular Places & Activities in Naddi Dharamshala | Bob's N Barley
+          Popular Places & Activities in Naddi Dharamshala | Hotel Woodrina
         </title>
         <meta
           property="og:title"
-          content="Popular Places & Activities in Naddi Dharamshala | Bob's N Barley"
+          content="Popular Places & Activities in Shimla | Hotel Woodrina"
         />
         <meta
           property="og:description"
-          content="Check out the most popular and attractive locations within Dharamshala to visit and also some exciting sports and activities to take part in | Bob's N Barley"
+          content="Check out the most popular and attractive locations within Shimla to visit and also some exciting sports and activities to take part in | Hotel Woodrina"
         />
       </Head>
 
@@ -106,11 +106,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_1">
                     <div className="attraction_column_title">
-                      <h3>BIR BILLING</h3>
+                      <h3>The Ridge</h3>
                       <p>
-                        Bir Billing is located 30 km from the famous hill town
-                        Palampur in Himachal Pradesh in the northern part of
-                        India.
+                      The Ridge road is a large open space, located in the center of Shimla. The Ridge is the hub of all cultural activities of Shimla. It runs east to west alongside Mall Road. It is only 18 minutes distance from us.
                       </p>
                     </div>
                   </div>
@@ -118,11 +116,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_2">
                     <div className="attraction_column_title">
-                      <h3>KHANIYARA</h3>
+                      <h3>Kali Tibba Temple</h3>
                       <p>
-                        Khaniyara is a suburb of Dharamshala town, situated in
-                        the foothills of Dhauladhar Mountains, in Kangra
-                        district of the state of Himachal Pradesh.
+                      Kali Tibba Temple is a shrine dedicated to the Hindu goddess Kali. This beautiful temple situated at the top of a hill.  Enjoy the breathtaking scenery of the Shivalik Range
                       </p>
                     </div>
                   </div>
@@ -130,12 +126,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_3">
                     <div className="attraction_column_title">
-                      <h3>DHARAMKOT</h3>
+                      <h3>Narkanda</h3>
                       <p>
-                        Dharamkot is a small hill station in Kangra district in
-                        the state of Himachal Pradesh, India. On the crest of a
-                        hill above McLeodGanj, Dharamkot is a spot with wide
-                        views of the Kangra Valley and the Dhauladhar ranges.
+                      Narkanda is a small hill town of Himachal Pradesh. It is surrounded by tropical forests and majestic hills. It displays the snow line, the inviting apple orchards, and dense forests.
                       </p>
                     </div>
                   </div>
@@ -143,12 +136,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_4">
                     <div className="attraction_column_title">
-                      <h3>JAWALA JI TEMPLE</h3>
+                      <h3>Scandal Point</h3>
                       <p>
-                        One of the oldest known pilgrimage destinations of
-                        Northern India, Jawala Ji Temple is around 32km from
-                        Kangra. The main flame of this temple keeps burning
-                        constantly.
+                      Scandal Point is located to the western edge of Shimla where two of the city’s most important roads, The Ridge and Mall Road, converge. It is only 17 Minutes far from us. Many guests enjoy this place most of the time in the day.
                       </p>
                     </div>
                   </div>
@@ -156,12 +146,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_5">
                     <div className="attraction_column_title">
-                      <h3>PONG DAM</h3>
+                      <h3>Jakhu Ropeway</h3>
                       <p>
-                        Pong Dam is also known as Pong Reservoir was created in
-                        1975, by building the highest earth-fill dam in India on
-                        the Beas River in the wetland zone of the Siwalik Hills
-                        of the Kangra district
+                      The Jakhu Ropeway is a Cable car in the town of Shimla “Queen of hills “ in the Indian state of Himachal Pradesh. The Ropeway is a popular tourist destination in shimla giving breathtaking views of Himalayan hills.
                       </p>
                     </div>
                   </div>
@@ -169,12 +156,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_6">
                     <div className="attraction_column_title">
-                      <h3>INDRU NAG TEMPLE</h3>
+                      <h3>Tara Devi Temple</h3>
                       <p>
-                        Indru Nag temple is located at a height that gives a
-                        fantastic view of the whole city, Dharamshala. It is at
-                        a distance of 5 km from Dharamshala Bus Station. It is
-                        accessible by road.
+                      Tara Devi temple is one of the most visited religious places in Shimla. It is situated 11 km from Shimla. It has a divine atmosphere and surrounded by a mesmerizing view of the lofty mountains, pine forests, and lush greenery.
                       </p>
                     </div>
                   </div>
@@ -182,11 +166,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_6">
                     <div className="attraction_column_title">
-                      <h3>MASROOR TEMPLE</h3>
+                      <h3>Chail</h3>
                       <p>
-                        Masroor Temple or Rock-cut Temple at Masrur is an early
-                        8th-century complex of rock-cut Hindu temples in the
-                        Kangra Valley of Beas River in Himachal Pradesh, India.
+                      Chail is a hill station in Himachal Pradesh, India. It is 44 kilometers (27 mi) from Shimla and 45 kilometers (28 mi) from Solan. It is known for its salubrious beauty and virgin forests. Chail has a dense cover of pine and deodar trees.
                       </p>
                     </div>
                   </div>
@@ -194,11 +176,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_6">
                     <div className="attraction_column_title">
-                      <h3>GOPALPUR ZOO</h3>
+                      <h3>Fagu</h3>
                       <p>
-                        Gopalpur Zoo is situated in Gopalpur village, Kangra
-                        district, Himachal Pradesh. It is surrounded by the
-                        Dhauladhar Range of the Himalayas.
+                      Fagu is a serene snow-clad hamlet. This place looks magical as it is always enveloped in snow and fog. The clouds are so close to the surface that at times it feels as if you are walking on clouds. This is only 24.4 km away from us.
                       </p>
                     </div>
                   </div>
@@ -206,12 +186,19 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_6">
                     <div className="attraction_column_title">
-                      <h3>MCLEOD GANJ</h3>
+                      <h3>Catchment Wildlife Sanctuary</h3>
                       <p>
-                        McLeod Ganj is a suburb of Dharamshala in Kangra
-                        district of Himachal Pradesh, India. It is known as
-                        &#8220;Little Lhasa&#8221; or &#8220;Dhasa&#8221;
-                        because of its large population of Tibetans.
+                      Catchment Wildlife Sanctuary is situated 8km from Shimla. The catchment is surrounded by tall Deodar & Himalayan oaks. Beautiful wooden cabins built inside it, Facilitate magnificent views of the dense forest & the valley.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div className="activity-item">
+                  <div className="attraction_column attraction_item_6">
+                    <div className="attraction_column_title">
+                      <h3>Kali Bari Temple</h3>
+                      <p>
+                      Kali Bari Mandir is a Hindu temple situated on Bantony Hill, Shimla, with a panoramic view of the mountain ranges and lush green forests, offers a divine atmosphere to the devotees of Shyamala Mata.
                       </p>
                     </div>
                   </div>
@@ -238,12 +225,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column item_4">
                     <div className="attraction_column_title">
-                      <h3>HIKING</h3>
+                      <h3>Adventure activities at Fagu</h3>
                       <p className="attraction-para">
-                        The rugged terrain of the jagged mountains of Kangra
-                        comes across as the perfect platform for trekkers,
-                        mountaineers, and rock-climbers to venture out for some
-                        action.
+                      Any trek to Himachal Pradesh is not finished without getting a charge out of the experience game of skiing in Fagu.
                       </p>
                     </div>
                   </div>
@@ -251,11 +235,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column item_5">
                     <div className="attraction_column_title">
-                      <h3>TREKKING TOUR</h3>
+                      <h3>Motorcycle on rent</h3>
                       <p className="attraction-para">
-                        The beautiful and mysterious ranges of the Himalayas are
-                        just the ideal sites for you to try your hand at the
-                        trekking spot in Dharamshala. 
+                      Accomplish your endeavor of riding a motorcycle on Himalayan roads by renting from us.
                       </p>
                     </div>
                   </div>
@@ -263,25 +245,9 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column item_5">
                     <div className="attraction_column_title">
-                      <h3>BICYCLE & BIKE ON RENT</h3>
+                      <h3>Bicycle on rent</h3>
                       <p className="attraction-para">
-                        Best way to explore the mountain routes in Dharamshala
-                        and Kangra valley with the latest model cycle for your
-                        comfort and safety with the proper guideline for your
-                        journey
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="activity-item">
-                  <div className="attraction_column item_4">
-                    <div className="attraction_column_title">
-                      <h3>PARAGLIDING</h3>
-                      <p className="attraction-para">
-                        Paragliding is an adventure sport of flying para-gliders
-                        like birds and enjoys the view of beautiful mountains
-                        around Dharamshala &#038; Bir Billing.
+                      Rent out bicycle to visit Catchment Wildlife Sanctuary
                       </p>
                     </div>
                   </div>

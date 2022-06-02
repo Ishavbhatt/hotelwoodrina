@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.326" height="125.326" viewBox="0 0 125.326 125.326">
+  <g id="arrow-bg-left" transform="translate(0)">
+    <g id="Group_15" data-name="Group 15" transform="translate(0 0)">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="88.619" height="88.619" transform="translate(125.326 62.663) rotate(135)" fill="#37392d"/>
+      <g id="arrow" transform="translate(16.222 16.222)">
+        <g id="crousal-arrow" transform="translate(39.567 32.86)">
+          <path id="Path_1" data-name="Path 1" d="M281.714,112,268,125.714l13.714,13.713" transform="translate(-268 -112)" fill="none" stroke="#60cd62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line id="Line_1" data-name="Line 1" x2="49.004" transform="translate(0.975 13.481)" fill="none" stroke="#60cd62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(92.882 46.441) rotate(135)" fill="none" stroke="#60cd62" stroke-width="2">
+          <rect width="65.677" height="65.677" rx="2" stroke="none"/>
+          <rect x="1" y="1" width="63.677" height="63.677" rx="1" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

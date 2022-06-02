@@ -90,20 +90,21 @@ function Contactus() {
                   <div>
                     <h2 className="cont-head-col">ADDRESS</h2>
                     <p className="black">
-                      Naddi, McLeod Ganj, Dharamshala, Himachal Pradesh 176219
+                    Shimla Kufri Road, Dhalli,
+                    Shimla, Himachal Pradesh 171012
                     </p>
                   </div>
                   <div>
                     <h2 className="cont-head-col">PHONE NUMBER</h2>
                     <p className="black">
-                      <a href="tel:9805814000">+91 - 98058 14000</a>
+                      <a href="tel:9805814000">+91 - 98160 28966</a>
                     </p>
                   </div>
                   <div>
                     <h2 className="cont-head-col">RESERVATION</h2>
                     <p className="black">
-                      <a href="mailto:info@bobsnbarley.com">
-                        info@bobsnbarley.com{" "}
+                      <a href="mailto:info@hotelwoodrina.in">
+                      info@hotelwoodrina.in
                       </a>
                     </p>
                   </div>
