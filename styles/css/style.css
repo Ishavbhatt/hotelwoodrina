@@ -55,7 +55,7 @@ body .booked-wzsp-prime-data .booked-wzsp-day-val {
 .fixedweather {
   position: relative;
   z-index: 99;
-  background: #ffffff7a;
+  background: #60cd6270;
   padding: 10px 25px;
   box-shadow: none;
   width: 160px;
@@ -648,7 +648,7 @@ body .header .navbar-collapse {
   right: -6px;
   height: 20px;
   width: 20px;
-  border: 1px solid white;
+  border: 1px solid #60CD62;
   top: 2px;
   transition: all ease-in-out 0.4s;
   transform: rotate(-45deg);
@@ -684,7 +684,7 @@ body .header .navbar-collapse {
   vertical-align: top;
 }
 .check-in-out-container label {
-  color: #37392d;
+  color: #60CD62;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -1166,6 +1166,9 @@ body .header .navbar-collapse {
 .footer_link_white p, .footer_link_white a {
   color: #fff;
 }
+.footer_link_white a:hover {
+  color: #fff;
+}
 .footer_link_black, .footer_link_black a {
   color: #000;
 }
@@ -1184,7 +1187,7 @@ body .header .navbar-collapse {
   background-image: url("/room-inner-banner.jpg");
 }
 .about_page_banner {
-  background-image: url("/about-page-banner.jpeg");
+  background-image: url("/room-inner-banner.jpg");
 }
 .health_page_banner {
   background-image: url("/health-banner.jpg");
@@ -1281,19 +1284,19 @@ body .header .navbar-collapse {
     left top,
     left bottom,
     from(#60CD6242),
-    color-stop(50%, #df2b2ba1),
+    color-stop(50%, #64df2ba1),
     to(#60CD62)
   );
   background: -moz-linear-gradient(
     top,
-    #e2545442 0%,
-    #e25454a1 50%,
+    #54e26742 0%,
+    #60e254a1 50%,
     #60CD62 100%
   );
   background: linear-gradient(
     to bottom,
     #e2545400 0%,
-    #e25454a3 50%,
+    #60e254a3 50%,
     #60CD62 100%
   );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#60CD62', endColorstr='#60CD62',GradientType=0 );

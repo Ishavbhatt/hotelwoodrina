@@ -28,7 +28,6 @@ function Menu() {
       </section>
 
       <section className="menu_section_columns common_padding">
-
         <div className="safety_section common_padding">
           <div className="container">
             <div className="row">
@@ -40,9 +39,7 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 30</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Soft Drink
-                    </span>
+                    <span className="menu_item_left">Soft Drink</span>
                     <span className="menu_item_right">&#8377; 50</span>
                   </li>
                   <li className="menu_list_items">
@@ -77,19 +74,17 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Vegetable Sandwich
-                    </span>
+                    <span className="menu_item_left">Vegetable Sandwich</span>
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Veg Grilled Sandwich
-                    </span>
+                    <span className="menu_item_left">Veg Grilled Sandwich</span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Chicken Grilled Sandwich</span>
+                    <span className="menu_item_left">
+                      Chicken Grilled Sandwich
+                    </span>
                     <span className="menu_item_right">&#8377; 180</span>
                   </li>
                   <li className="menu_list_items">
@@ -101,19 +96,19 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Butter Toast(4Pcs.)
-                    </span>
+                    <span className="menu_item_left">Butter Toast(4Pcs.)</span>
                     <span className="menu_item_right">&#8377; 70</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Corn Flakes | Porridge
+                      Corn Flakes | Porridge
                     </span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Stuffed Parantha(2Pcs.)</span>
+                    <span className="menu_item_left">
+                      Stuffed Parantha(2Pcs.)
+                    </span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
@@ -125,9 +120,7 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Poha
-                    </span>
+                    <span className="menu_item_left">Poha</span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
@@ -139,40 +132,38 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 60</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Coffee (One Pot)
-                    </span>
+                    <span className="menu_item_left">Coffee (One Pot)</span>
                     <span className="menu_item_right">&#8377; 80</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Cold Coffee (One Pot)</span>
+                    <span className="menu_item_left">
+                      Cold Coffee (One Pot)
+                    </span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Green Tea (One Pot)
-                    </span>
+                    <span className="menu_item_left">Green Tea (One Pot)</span>
                     <span className="menu_item_right">&#8377; 70</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Milk(One Pot)
-                    </span>
+                    <span className="menu_item_left">Milk(One Pot)</span>
                     <span className="menu_item_right">&#8377; 60</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Bournvita | Hot Chocolate(One Pot)</span>
+                    <span className="menu_item_left">
+                      Bournvita | Hot Chocolate(One Pot)
+                    </span>
                     <span className="menu_item_right">&#8377; 80</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Juices (Apple, Orange, Pineapple, Litchi)
+                      Juices (Apple, Orange, Pineapple, Litchi)
                     </span>
                     <span className="menu_item_right">&#8377; 50</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Seasonal Fresh Fruits
+                      Seasonal Fresh Fruits
                     </span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
@@ -216,9 +207,7 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 200</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Vegetable Manchurian
-                    </span>
+                    <span className="menu_item_left">Vegetable Manchurian</span>
                     <span className="menu_item_right">&#8377; 175</span>
                   </li>
                   <li className="menu_list_items">
@@ -238,7 +227,9 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Honey Chilly Cauliflower</span>
+                    <span className="menu_item_left">
+                      Honey Chilly Cauliflower
+                    </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
@@ -269,7 +260,9 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Fruit Salad With Ice Cream</span>
+                    <span className="menu_item_left">
+                      Fruit Salad With Ice Cream
+                    </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
@@ -360,14 +353,12 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 300</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Kadai Chicken
-                    </span>
+                    <span className="menu_item_left">Kadai Chicken</span>
                     <span className="menu_item_right">&#8377; 300</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Butter chicken (Half)
+                      Butter chicken (Half)
                     </span>
                     <span className="menu_item_right">&#8377; 300</span>
                   </li>
@@ -408,11 +399,15 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 160</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Peas & Mushroom Curry</span>
+                    <span className="menu_item_left">
+                      Peas & Mushroom Curry
+                    </span>
                     <span className="menu_item_right">&#8377; 160</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Seasonal Bhindi Masala</span>
+                    <span className="menu_item_left">
+                      Seasonal Bhindi Masala
+                    </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
@@ -424,15 +419,11 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 160</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Veg. Kofta
-                    </span>
+                    <span className="menu_item_left">Veg. Kofta</span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Malai Kofta
-                    </span>
+                    <span className="menu_item_left">Malai Kofta</span>
                     <span className="menu_item_right">&#8377; 200</span>
                   </li>
                   <li className="menu_list_items">
@@ -452,15 +443,11 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 200</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Palak Paneer
-                    </span>
+                    <span className="menu_item_left">Palak Paneer</span>
                     <span className="menu_item_right">&#8377; 200</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Paneer Bhurji
-                    </span>
+                    <span className="menu_item_left">Paneer Bhurji</span>
                     <span className="menu_item_right">&#8377; 250</span>
                   </li>
                   <li className="menu_list_items">
@@ -499,7 +486,9 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 20</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Latcha Paratha (Tawa)</span>
+                    <span className="menu_item_left">
+                      Latcha Paratha (Tawa)
+                    </span>
                     <span className="menu_item_right">&#8377; 30</span>
                   </li>
                   <li className="menu_list_items">
@@ -515,15 +504,11 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Jeera Rice
-                    </span>
+                    <span className="menu_item_left">Jeera Rice</span>
                     <span className="menu_item_right">&#8377; 125</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Plain Rice
-                    </span>
+                    <span className="menu_item_left">Plain Rice</span>
                     <span className="menu_item_right">&#8377; 125</span>
                   </li>
                 </ul>
@@ -534,7 +519,7 @@ function Menu() {
             </div>
           </div>
         </div>
-        
+
         <div className="safety_section common_padding">
           <div className="container">
             <div className="row">
@@ -546,15 +531,11 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Russian Salad
-                    </span>
+                    <span className="menu_item_left">Russian Salad</span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Kachumber Salad
-                    </span>
+                    <span className="menu_item_left">Kachumber Salad</span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                 </ul>
@@ -564,7 +545,7 @@ function Menu() {
               </div>
             </div>
           </div>
-        </div> 
+        </div>
 
         <div className="safety_section common_padding">
           <div className="container">
@@ -573,20 +554,18 @@ function Menu() {
                 <h5 className="menu_title">Snacks</h5>
                 <ul className="menu-ul">
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Peanut Masala
-                    </span>
+                    <span className="menu_item_left">Peanut Masala</span>
                     <span className="menu_item_right">&#8377; 125</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Vegetable Hara Bhara Kabab
+                      Vegetable Hara Bhara Kabab
                     </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Vegetable Spring Roll
+                      Vegetable Spring Roll
                     </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
@@ -611,9 +590,7 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 125</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">
-                    Maggi
-                    </span>
+                    <span className="menu_item_left">Maggi</span>
                     <span className="menu_item_right">&#8377; 100</span>
                   </li>
                 </ul>
@@ -636,19 +613,27 @@ function Menu() {
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Chicken Sweet Corn Soup</span>
+                    <span className="menu_item_left">
+                      Chicken Sweet Corn Soup
+                    </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Vegetable Sweet Corn Soup</span>
+                    <span className="menu_item_left">
+                      Vegetable Sweet Corn Soup
+                    </span>
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Checkin Hot & Sour Soup</span>
+                    <span className="menu_item_left">
+                      Checkin Hot & Sour Soup
+                    </span>
                     <span className="menu_item_right">&#8377; 150</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Vegetable Hot & Sour Soup</span>
+                    <span className="menu_item_left">
+                      Vegetable Hot & Sour Soup
+                    </span>
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>
                   <li className="menu_list_items">
@@ -657,17 +642,19 @@ function Menu() {
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Vegetable Munchow Soup
+                      Vegetable Munchow Soup
                     </span>
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>
                   <li className="menu_list_items">
-                    <span className="menu_item_left">Tomato Soup/Cream of Tomato</span>
+                    <span className="menu_item_left">
+                      Tomato Soup/Cream of Tomato
+                    </span>
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>
                   <li className="menu_list_items">
                     <span className="menu_item_left">
-                    Tomato Soup/Cream of Tomato
+                      Tomato Soup/Cream of Tomato
                     </span>
                     <span className="menu_item_right">&#8377; 120</span>
                   </li>

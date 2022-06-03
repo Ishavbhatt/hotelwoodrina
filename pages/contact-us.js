@@ -109,7 +109,7 @@ function Contactus() {
                     </p>
                   </div>
                   <a
-                    href="https://www.google.com/maps/place/BobsnBarley+-+Hotel+and+Restaurant/@32.2491403,76.3039932,17z/data=!3m1!4b1!4m8!3m7!1s0x391b57300701cb85:0x54e0b7ec4c3c1572!5m2!4m1!1i2!8m2!3d32.2491403!4d76.3061819"
+                    href="https://www.google.com/maps/place/Hotel+Woodrina/@31.1118957,77.2169214,17z/data=!3m1!4b1!4m8!3m7!1s0x390582696d7b8dff:0x4f61d39aa35c9d6f!5m2!4m1!1i2!8m2!3d31.1118957!4d77.2191101"
                     className="common_btn"
                   >
                     GET DIRECTIONS
@@ -121,7 +121,7 @@ function Contactus() {
               <Link
                 className="pointer"
                 href={
-                  "https://www.google.com/maps/place/BobsnBarley+-+Hotel+and+Restaurant/@32.2491403,76.3039932,17z/data=!3m1!4b1!4m8!3m7!1s0x391b57300701cb85:0x54e0b7ec4c3c1572!5m2!4m1!1i2!8m2!3d32.2491403!4d76.3061819"
+                  "https://www.google.com/maps/place/Hotel+Woodrina/@31.1118957,77.2169214,17z/data=!3m1!4b1!4m8!3m7!1s0x390582696d7b8dff:0x4f61d39aa35c9d6f!5m2!4m1!1i2!8m2!3d31.1118957!4d77.2191101"
                 }
               >
                 <a target="_blank">
