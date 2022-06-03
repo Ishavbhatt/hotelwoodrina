@@ -157,20 +157,20 @@ export default function Home() {
       });
   }, []);
 
-  // useEffect(() => {
-  //   const fetchFeeds = () => {
-  //     axios
-  //       .get(instagramUrl)
-  //       .then((res) => {
-  //         setFeeds(res.data.data);
-  //         setIsLoading(false);
-  //       })
-  //       .catch((err) => {
-  //         console.log(err);
-  //       });
-  //   };
-  //   fetchFeeds();
-  // }, []);
+  useEffect(() => {
+    const fetchFeeds = () => {
+      axios
+        .get(instagramUrl)
+        .then((res) => {
+          setFeeds(res.data.data);
+          setIsLoading(false);
+        })
+        .catch((err) => {
+          console.log(err);
+        });
+    };
+    fetchFeeds();
+  }, []);
 
   return (
     <>
@@ -535,9 +535,9 @@ export default function Home() {
             <Slide bottom>
               <h2 className="text-center">Follow Us On Instagram</h2>
             </Slide>
-            <Link href="https://instagram.com/goldenfernresort_">
+            <Link href="https://instagram.com/hotelwoodrina">
               <a target="_blank" className="insta-gallery-link">
-                @goldenfernresort_
+                @hotelwoodrina
               </a>
             </Link>
             {isLoading ? (

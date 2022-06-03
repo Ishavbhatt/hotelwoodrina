@@ -988,7 +988,6 @@ body .header .navbar-collapse {
   position: absolute;
   width: 100%;
   height: 90px;
-  background-image: url("/bg-layer-top.svg");
   flex-direction: column;
   background-position: center;
   background-size: cover;
@@ -2012,7 +2011,7 @@ div.wpcf7 .ajax-loader {
   background-image: url("/room.jpg");
 }
 .post_column_image {
-  background-image: url("/food.jpg");
+  background-image: url("/room.jpg");
 }
 .safety_inner_1 {
   background-image: url("/safety.jpeg");
@@ -2482,4 +2481,5 @@ div.wpcf7 .ajax-loader {
 }
 .insta_gallery_section .owl-carousel .owl-item img {
   border-radius: 3%;
+  height: 207px;
 }
