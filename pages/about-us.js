@@ -66,7 +66,7 @@ function Aboutus() {
                 </Slide>
                 {/* <Slide right> */}
                 <div className="col-md-6 col-sm-12 wedding_services_right">
-                  <div className="about_hotel_image about-dharamshala"></div>
+                  <div className="about_hotel_image about-shimla"></div>
                 </div>
                 {/* </Slide> */}
               </div>

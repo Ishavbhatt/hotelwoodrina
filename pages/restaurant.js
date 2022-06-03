@@ -80,7 +80,7 @@ function Restaurant() {
                     <Fade top>
                       <div className="col-md-6 col-sm-12 about_hotel_text">
                         <h3 className="common_title">
-                          <span className="red_color">
+                          <span className="green_color">
                             An Ambient Dining Experiance
                           </span>
                         </h3>
@@ -118,7 +118,7 @@ function Restaurant() {
                     <Fade top>
                       <div className="col-md-6 col-sm-12 about_hotel_text">
                         <h3 className="common_title">
-                          <span className="red_color">
+                          <span className="green_color">
                             Traditional & Family Reciepe
                           </span>
                         </h3>
@@ -153,7 +153,7 @@ function Restaurant() {
         <div className="container">
           <div className="row">
             <div className="text-left">
-              <h2 className="red_title">Restaurant Gallery</h2>
+              <h2 className="green_title">Restaurant Gallery</h2>
             </div>
             <div className="owl-carousel owl-theme owl-loaded restaurant-slider">
               <OwlCarousel

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.134" height="64.134" viewBox="0 0 64.134 64.134">
+  <g id="arrow-new-right" transform="translate(-1359.962 -2683.041)">
+    <g id="arrow-forward-outline" transform="translate(1308.888 2705.716)">
+      <path id="Path_1" data-name="Path 1" d="M268,112l9.469,9.469L268,130.938" transform="translate(-190.642 -112)" fill="none" stroke="#60cd62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_1" data-name="Line 1" x1="31.323" y2="0.356" transform="translate(53.707 9.469)" fill="none" stroke="#60cd62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(1392.029 2683.041) rotate(45)" fill="none" stroke="#60cd62" stroke-width="2">
+      <rect width="45.35" height="45.35" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="43.35" height="43.35" rx="1" fill="none"/>
+    </g>
+  </g>
+</svg>

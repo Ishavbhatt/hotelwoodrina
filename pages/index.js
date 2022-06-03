@@ -345,7 +345,7 @@ export default function Home() {
                 <div className="index-room-item">
                   <div className="rooms_slider_column row">
                     <div className="col-md-7 columns ">
-                      <div className="rooms_slider_image super_deluxe_slider_image">
+                      <div className="rooms_slider_image cottage_slider_image">
                         <div className="room_price">
                           <p>rates from</p>
                           <h2>&#8377; 4000 /</h2>

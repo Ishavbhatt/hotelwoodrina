@@ -74,7 +74,7 @@ function roomsuites() {
                     <div className="row">
                       <Fade bottom>
                         <div className="col-lg-7 col-md-7 col-sm-12 about_hotel_right text-center">
-                          <div className="about_hotel_image premium"></div>
+                          <div className="about_hotel_image family-suite"></div>
                         </div>
                       </Fade>
                       <Fade top>
@@ -100,7 +100,7 @@ function roomsuites() {
                     <div className="row">
                       <Fade bottom>
                         <div className="col-lg-7 col-md-7 col-sm-12 about_hotel_right text-center">
-                          <div className="about_hotel_image super-deluxe"></div>
+                          <div className="about_hotel_image cottage-room"></div>
                         </div>
                       </Fade>
                       <Fade top>

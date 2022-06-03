@@ -43,6 +43,9 @@ const Navbar = () => {
                         <li>
                           <Link href="/restaurant">restaurant</Link>
                         </li>
+                        <li>
+                          <Link href="/wedding">wedding</Link>
+                        </li>
                         {/* <li>
                             <Link href="/Healthsafety">health & safety</Link>
                           </li> */}
