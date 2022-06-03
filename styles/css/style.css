@@ -345,7 +345,7 @@ section {
   padding: 0px;
 }
 .logo img {
-  max-width: 134px;
+  max-width: 200px;
   cursor: pointer;
   transform: scale3d(1, 1, 1);
   transition: all ease-in-out 0.5s;
@@ -1137,8 +1137,9 @@ body .header .navbar-collapse {
 .f_newsletter form .common_arrow::after {
   height: 18px;
   width: 18px;
-  right: -2px;
+  right: 0;
   top: -3px;
+  border: 1px solid #fff;
 }
 .f_icons a {
   margin: 0 10px;
@@ -1166,13 +1167,10 @@ body .header .navbar-collapse {
   color: #60CD62;
   margin-bottom: 5px !important;
 }
-.footer_link_white p, .footer_link_white a {
+.footer_link_white p, .footer_link_white a, .footer_link_black, .footer_link_black a {
   color: #000;
 }
-.footer_link_white a:hover {
-  color: #000;
-}
-.footer_link_black, .footer_link_black a {
+.footer_link_white a:hover, .footer_link_black a:hover {
   color: #000;
 }
 .common_page_header {
@@ -1193,7 +1191,7 @@ body .header .navbar-collapse {
   background-image: url("/about-banner.jpg");
 }
 .health_page_banner {
-  background-image: url("/health-banner.jpg");
+  background-image: url("/about-banner.jpg");
 }
 .attraction_page_banner {
   background-image: url("/attraction-banner.jpg");
@@ -1214,10 +1212,10 @@ body .header .navbar-collapse {
   background-image: url("/contact-banner.jpg");
 }
 .privacy_page_banner {
-  background-image: url("/contact-banner.jpeg");
+  background-image: url("/attraction-banner.jpg");
 }
 .termscondition_banner {
-  background-image: url("/contact-banner.jpeg");
+  background-image: url("/attraction-banner.jpg");
 }
 .common_page_header_title h2 {
   color: #fff;
@@ -1382,7 +1380,7 @@ body .header .navbar-collapse {
 } */
 .single-room-sec .owl-nav button,
 .wedding_gallery .owl-nav button {
-  background-image: url("/arrow-new-left.svg") !important;
+  background-image: url("/arrow-left-green.svg") !important;
   background-repeat: no-repeat !important;
   width: 40px;
   height: 40px;
@@ -1394,7 +1392,7 @@ body .header .navbar-collapse {
 }
 .single-room-sec .owl-nav button.owl-next,
 .wedding_gallery .owl-nav button.owl-next {
-  background-image: url("/arrow-new-right.svg") !important;
+  background-image: url("/arrow-right-green.svg") !important;
 }
 .single-room-sec .owl-nav button span,
 .gallery-sec .owl-nav button span,

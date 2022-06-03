@@ -99,9 +99,9 @@ function Wedding() {
                 <div className="col-md-6 col-sm-12">
                   <div className="wedding_video">
                     <iframe
-                      width="100%"
-                      height="315"
-                      src="https://www.youtube.com/embed/vjXqYP67l5E?controls=0"
+                       width="100%"
+                       height="315"
+                      src="https://www.youtube.com/embed/AVcxEFcSjpw"
                       title="YouTube video player"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                       allowFullScreen
@@ -256,7 +256,7 @@ function Wedding() {
           <div className="container">
             <div className="row">
               <Zoom bottom>
-                <h3 className="text-center color_white">
+                <h3 className="text-center green_color">
                   The Specified Services
                 </h3>
               </Zoom>

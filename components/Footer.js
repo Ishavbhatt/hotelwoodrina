@@ -24,10 +24,10 @@ function Footer() {
               <div className="col-md-4 col-sm-4 col-xs-12 footer_address_left">
                 <div className="footer_address_left_inner">
                   <div className="f_logo">
-                    <img src="/hotel-woodrina-footer-logo.png" alt="logo" />
+                    <img src="/hotel-woodrina-logo.png" alt="logo" />
                   </div>
                   <div className="f_newsletter">
-                    <h4 className="text-uppercase">SUBSCRIBE OUR NEWSLETTER</h4>
+                    <h4 className="text-uppercase white">SUBSCRIBE OUR NEWSLETTER</h4>
                     <form>
                       <input
                         type="email"
@@ -35,7 +35,7 @@ function Footer() {
                         onChange={(e) => validateEmail(e)}
                       />
                       <button type="submit" className="common_arrow">
-                        <img src="/arrow-forward-outline.svg" alt="Icon" />
+                        <img src="/arrow-forward-white.svg" alt="Icon" />
                       </button>
                     </form>
                     <span
@@ -53,19 +53,19 @@ function Footer() {
                       href="https://www.facebook.com/HotelWoodrina/"
                       target="_blank"
                     >
-                      <img src="/facebook.svg" alt="Icon" />
+                      <img src="/social/facebook.svg" alt="Icon" />
                     </a>
                     <a
                       href="https://www.instagram.com/hotelwoodrina"
                       target="_blank"
                     >
-                      <img src="/instagram.svg" alt="Icon" />
+                      <img src="/social/instagram.svg" alt="Icon" />
                     </a>
                     <a
                       href="https://www.youtube.com/channel/UCiB09DuxH1b4Ha7rBDZ3yOQ"
                       target="_blank"
                     >
-                      <img src="/youtube.svg" alt="Icon" />
+                      <img src="/social/youtube.svg" alt="Icon" />
                     </a>
                   </div>
                 </div>

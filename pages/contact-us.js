@@ -13,7 +13,6 @@ function Contactus() {
 
   const handleClick = () => {
     setChecked(!checked);
-    console.log(checked);
   };
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -125,7 +124,7 @@ function Contactus() {
                 }
               >
                 <a target="_blank">
-                  <img src="/map-image.png" alt="" />
+                  <img src="/map-image.png" alt="image" />
                 </a>
               </Link>
             </div>
