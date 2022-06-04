@@ -66,7 +66,7 @@ const Navbar = () => {
                     data-bs-toggle="modal"
                     target="_blank"
                     data-bs-target="#exampleModal"
-                    href="/contact-us"
+                    href="https://hotelwoodrina.bookingjini.com/property"
                   >
                     <a target="_blank">Book Now</a>
                   </Link>

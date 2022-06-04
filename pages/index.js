@@ -237,7 +237,7 @@ export default function Home() {
               <div className="banner-book-btn pick-dates popup-book-btn">
                 <div className="common_arrow">
                   <a
-                    href="/contact-us"
+                    href="https://hotelwoodrina.bookingjini.com/property"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
