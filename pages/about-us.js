@@ -28,48 +28,58 @@ function Aboutus() {
       </section>
 
       <section className="scrollspy-example common_padding w-100">
-        <div className="spy_section">
-          <div className="about_hotel_col">
-            <div className="container">
-              <div className="row">
-                <div className="col-md-6 col-sm-12 wedding_services_right">
-                  <div className="wedding_services_image about-hotel"></div>
-                </div>
-                <Slide right>
-                  <div className="col-md-6 col-sm-12 about_hotel_text">
-                    <h2 className="common_title">Who We Are</h2>
-                    <p>
-                    Located at the height of 7000 feet just 9 km from city centre The Mall Road Shimla, We welcome you to Hotel Woodrina. Surround yourself to peace and thick Deodar Forest, Breathe and witness the breathtaking 360 – degree view and beautiful sunset from the Deck. Back in British Era the Hotel use to be the home of a British Army officer and his family.
-                    </p>
-                    <br />
-                    <p>
-                    Presently the Hotel has 11 Cottages One Room Cottage, Two/Bedroom Cottage, and four Bed Rooms cottages with 12 Rooms with a restaurant in the main block along with one Banquet Hall of 4500 Sq Feet.
-                    </p>
-                  </div>
-                </Slide>
+        <div className="about_hotel_col spy_section">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-6 col-sm-12 wedding_services_right">
+                <div className="wedding_services_image about-hotel"></div>
               </div>
+              <Slide right>
+                <div className="col-md-6 col-sm-12 about_hotel_text">
+                  <h2 className="common_title">Who We Are</h2>
+                  <p>
+                    Located at the height of 7000 feet just 9 km from city
+                    centre The Mall Road Shimla, We welcome you to Hotel
+                    Woodrina. Surround yourself to peace and thick Deodar
+                    Forest, Breathe and witness the breathtaking 360 – degree
+                    view and beautiful sunset from the Deck. Back in British Era
+                    the Hotel use to be the home of a British Army officer and
+                    his family.
+                  </p>
+                  <br />
+                  <p>
+                    Presently the Hotel has 11 Cottages One Room Cottage,
+                    Two/Bedroom Cottage, and four Bed Rooms cottages with 12
+                    Rooms with a restaurant in the main block along with one
+                    Banquet Hall of 4500 Sq Feet.
+                  </p>
+                </div>
+              </Slide>
             </div>
           </div>
         </div>
 
-        <div className="spy_section">
-          <div className="about_hotel_col">
-            <div className="container">
-              <div className="row justify-center">
-                <Slide left>
-                  <div className="col-md-6 col-sm-12 about_hotel_text">
-                    <h2 className="common_title">About Shimla</h2>
-                    <p>
-                    Shimla is the capital of the northern Indian state of Himachal Pradesh, in the Himalayan foothills. Once the summer capital of British India, it remains the terminus of the narrow-gauge Kalka-Shimla Railway, completed in 1903. It’s also known for the handicraft shops that line The Mall, a pedestrian avenue.
-                    </p>
-                  </div>
-                </Slide>
-                {/* <Slide right> */}
-                <div className="col-md-6 col-sm-12 wedding_services_right">
-                  <div className="about_hotel_image about-shimla"></div>
+        <div className="about_hotel_col spy_section">
+          <div className="container">
+            <div className="row justify-center">
+              <Slide left>
+                <div className="col-md-6 col-sm-12 about_hotel_text">
+                  <h2 className="common_title">About Shimla</h2>
+                  <p>
+                    Shimla is the capital of the northern Indian state of
+                    Himachal Pradesh, in the Himalayan foothills. Once the
+                    summer capital of British India, it remains the terminus of
+                    the narrow-gauge Kalka-Shimla Railway, completed in 1903.
+                    It’s also known for the handicraft shops that line The Mall,
+                    a pedestrian avenue.
+                  </p>
                 </div>
-                {/* </Slide> */}
+              </Slide>
+              {/* <Slide right> */}
+              <div className="col-md-6 col-sm-12 wedding_services_right">
+                <div className="about_hotel_image about-shimla"></div>
               </div>
+              {/* </Slide> */}
             </div>
           </div>
         </div>

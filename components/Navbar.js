@@ -33,7 +33,7 @@ const Navbar = () => {
                           <Link href="/about-us">about us</Link>
                         </li>
                         <li>
-                          <Link href="/room-suites">room & suits</Link>
+                          <Link href="/room-suites">room & suites</Link>
                         </li>
                         <li>
                           <Link href="/attractions-and-activities">
@@ -66,7 +66,7 @@ const Navbar = () => {
                     data-bs-toggle="modal"
                     target="_blank"
                     data-bs-target="#exampleModal"
-                    href="https://goldenfernresort.bookingjini.com/property"
+                    href="/contact-us"
                   >
                     <a target="_blank">Book Now</a>
                   </Link>

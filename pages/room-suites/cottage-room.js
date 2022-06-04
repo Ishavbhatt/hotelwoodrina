@@ -237,7 +237,7 @@ function SuperDeluxeROom() {
                     <div
                       className="attraction_column"
                       style={{
-                        backgroundImage: "url('/Deluxe/deluxe-category.jpg')",
+                        backgroundImage: "url('/deluxe-room.jpg')",
                       }}
                     >
                       <a href="/room-suites/deluxe-room">

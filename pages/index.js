@@ -184,9 +184,8 @@ export default function Home() {
           <div className="container">
             <div className="row">
               <div className="col-lg-10 offset-lg-1 col-md-10 offset-md-1 col-sm-12">
-                
                 <h1 className="page__title">
-                Welcome to hotel Woodrina Shimla
+                  Welcome to hotel Woodrina Shimla
                 </h1>
               </div>
             </div>
@@ -485,7 +484,7 @@ export default function Home() {
           <div className="row">
             <Fade top big>
               <h2 className="common_title">
-                Stay Update with <br /> Bob's N Barley
+                Stay Update with <br /> Hotel Woodrina
               </h2>
               <div className="flex-between">
                 <div className="col-lg-6 col-md-6 col-sm-12 ">
@@ -502,21 +501,21 @@ export default function Home() {
               <div className="post_column">
                 <div className="post_column_image"></div>
                 <p>on 22 Nov, 2021 / by admin</p>
-                <h4>Disclosing the Secrets of Success in Bob's N Barley</h4>
+                <h4>Disclosing the Secrets of Success in Hotel Woodrina</h4>
                 <a href="/#">READ MORE</a>
               </div>
 
               <div className="post_column">
                 <div className="post_column_image"></div>
                 <p>on 22 Nov, 2021 / by admin</p>
-                <h4>Disclosing the Secrets of Success in Bob's N Barley</h4>
+                <h4>Disclosing the Secrets of Success in Hotel Woodrina</h4>
                 <a href="/#">READ MORE</a>
               </div>
 
               <div className="post_column">
                 <div className="post_column_image"></div>
                 <p>on 22 Nov, 2021 / by admin</p>
-                <h4>Disclosing the Secrets of Success in Bob's N Barley</h4>
+                <h4>Disclosing the Secrets of Success in Hotel Woodrina</h4>
                 <a href="/#">READ MORE</a>
               </div>
             </OwlCarousel>

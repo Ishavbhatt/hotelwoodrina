@@ -256,9 +256,9 @@ function Wedding() {
           <div className="container">
             <div className="row">
               <Zoom bottom>
-                <h3 className="text-center green_color">
+                <h2 className="common_title text-center">
                   The Specified Services
-                </h3>
+                </h2>
               </Zoom>
               <div className="spy_section">
                 <div className="wedding_col">
@@ -345,7 +345,7 @@ function Wedding() {
             <div className="row">
               <div className="col-md-12 col-sm-12 text-left">
                 <Zoom bottom>
-                  <h2 className="common_title text-center color_white">
+                  <h2 className="common_title text-center">
                     Celebrating life, One Ocassion At A Time
                   </h2>
                 </Zoom>

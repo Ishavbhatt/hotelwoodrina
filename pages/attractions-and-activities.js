@@ -94,7 +94,7 @@ function Attractionactivities() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 col-sm-12 text-left">
-              <h2 className="red_title">Attractions</h2>
+              <h2 className="green_title">Attractions</h2>
             </div>
             <div className="owl-carousel owl-theme owl-loaded attraction_slider">
               <OwlCarousel
@@ -106,9 +106,12 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_1">
                     <div className="attraction_column_title">
-                      <h3>The Ridge</h3>
+                      <h3>Fagu</h3>
                       <p>
-                      The Ridge road is a large open space, located in the center of Shimla. The Ridge is the hub of all cultural activities of Shimla. It runs east to west alongside Mall Road. It is only 18 minutes distance from us.
+                        Fagu is Cuddling in the Majestic Himalayan Range. This
+                        place looks magical as it is always enveloped in snow &
+                        fog. The clouds are so close to the surface that at
+                        times it feels as if you are walking on clouds.{" "}
                       </p>
                     </div>
                   </div>
@@ -116,9 +119,12 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_2">
                     <div className="attraction_column_title">
-                      <h3>Kali Tibba Temple</h3>
+                    <h3>Green Valley</h3>
                       <p>
-                      Kali Tibba Temple is a shrine dedicated to the Hindu goddess Kali. This beautiful temple situated at the top of a hill.  Enjoy the breathtaking scenery of the Shivalik Range
+                        The Ridge road is a large open space, located in the
+                        center of Shimla. The Ridge is the hub of all cultural
+                        activities of Shimla. It runs east to west alongside
+                        Mall Road. It is only 18 minutes distance from us.
                       </p>
                     </div>
                   </div>
@@ -126,9 +132,13 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_3">
                     <div className="attraction_column_title">
-                      <h3>Narkanda</h3>
+                      
+                      <h3>Jakhu Temple</h3>
                       <p>
-                      Narkanda is a small hill town of Himachal Pradesh. It is surrounded by tropical forests and majestic hills. It displays the snow line, the inviting apple orchards, and dense forests.
+                        Jakhu Temple is Dedicated to Lord Hanuman, it houses a
+                        108-foot-tall idol of the deity. It offers sweeping
+                        views of the Shivalik ranges. The temple is situated at
+                        Jakhu Hills about 2.5 km away from the Ridge in Shimla.
                       </p>
                     </div>
                   </div>
@@ -136,9 +146,12 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_4">
                     <div className="attraction_column_title">
-                      <h3>Scandal Point</h3>
+                      <h3>Nature Park</h3>
                       <p>
-                      Scandal Point is located to the western edge of Shimla where two of the city’s most important roads, The Ridge and Mall Road, converge. It is only 17 Minutes far from us. Many guests enjoy this place most of the time in the day.
+                        Jakhu Temple is Dedicated to Lord Hanuman, it houses a
+                        108-foot-tall idol of the deity. It offers sweeping
+                        views of the Shivalik ranges. The temple is situated at
+                        Jakhu Hills about 2.5 km away from the Ridge in Shimla.
                       </p>
                     </div>
                   </div>
@@ -146,9 +159,12 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_5">
                     <div className="attraction_column_title">
-                      <h3>Jakhu Ropeway</h3>
+                      <h3>State Meseum</h3>
                       <p>
-                      The Jakhu Ropeway is a Cable car in the town of Shimla “Queen of hills “ in the Indian state of Himachal Pradesh. The Ropeway is a popular tourist destination in shimla giving breathtaking views of Himalayan hills.
+                        Fagu is Cuddling in the Majestic Himalayan Range. This
+                        place looks magical as it is always enveloped in snow &
+                        fog. The clouds are so close to the surface that at
+                        times it feels as if you are walking on clouds.
                       </p>
                     </div>
                   </div>
@@ -156,49 +172,12 @@ function Attractionactivities() {
                 <div className="activity-item">
                   <div className="attraction_column attraction_item_6">
                     <div className="attraction_column_title">
-                      <h3>Tara Devi Temple</h3>
+                      <h3>Green Valley</h3>
                       <p>
-                      Tara Devi temple is one of the most visited religious places in Shimla. It is situated 11 km from Shimla. It has a divine atmosphere and surrounded by a mesmerizing view of the lofty mountains, pine forests, and lush greenery.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="activity-item">
-                  <div className="attraction_column attraction_item_6">
-                    <div className="attraction_column_title">
-                      <h3>Chail</h3>
-                      <p>
-                      Chail is a hill station in Himachal Pradesh, India. It is 44 kilometers (27 mi) from Shimla and 45 kilometers (28 mi) from Solan. It is known for its salubrious beauty and virgin forests. Chail has a dense cover of pine and deodar trees.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="activity-item">
-                  <div className="attraction_column attraction_item_6">
-                    <div className="attraction_column_title">
-                      <h3>Fagu</h3>
-                      <p>
-                      Fagu is a serene snow-clad hamlet. This place looks magical as it is always enveloped in snow and fog. The clouds are so close to the surface that at times it feels as if you are walking on clouds. This is only 24.4 km away from us.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="activity-item">
-                  <div className="attraction_column attraction_item_6">
-                    <div className="attraction_column_title">
-                      <h3>Catchment Wildlife Sanctuary</h3>
-                      <p>
-                      Catchment Wildlife Sanctuary is situated 8km from Shimla. The catchment is surrounded by tall Deodar & Himalayan oaks. Beautiful wooden cabins built inside it, Facilitate magnificent views of the dense forest & the valley.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="activity-item">
-                  <div className="attraction_column attraction_item_6">
-                    <div className="attraction_column_title">
-                      <h3>Kali Bari Temple</h3>
-                      <p>
-                      Kali Bari Mandir is a Hindu temple situated on Bantony Hill, Shimla, with a panoramic view of the mountain ranges and lush green forests, offers a divine atmosphere to the devotees of Shyamala Mata.
+                        The Ridge road is a large open space, located in the
+                        center of Shimla. The Ridge is the hub of all cultural
+                        activities of Shimla. It runs east to west alongside
+                        Mall Road. It is only 18 minutes distance from us.
                       </p>
                     </div>
                   </div>
@@ -213,7 +192,7 @@ function Attractionactivities() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 col-sm-12 text-left">
-              <h2 className="red_title">Activities</h2>
+              <h2 className="green_title">Activities</h2>
             </div>
             <div className="owl-carousel owl-theme owl-loaded activities_slider">
               <OwlCarousel
@@ -242,7 +221,7 @@ function Attractionactivities() {
                     </div>
                   </div>
                 </div>
-                <div className="activity-item">
+                {/* <div className="activity-item">
                   <div className="attraction_column item_5">
                     <div className="attraction_column_title">
                       <h3>Bicycle on rent</h3>
@@ -251,7 +230,7 @@ function Attractionactivities() {
                       </p>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </OwlCarousel>
             </div>
           </div>

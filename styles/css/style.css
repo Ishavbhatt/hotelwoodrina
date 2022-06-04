@@ -129,12 +129,12 @@ body .container {
   max-width: 1200px;
 }
 ::-moz-selection {
-  background: #60CD62;
+  background: #60cd62;
   color: #fff;
   text-shadow: none;
 }
 ::selection {
-  background: #60CD62;
+  background: #60cd62;
   color: #fff;
   text-shadow: none;
 }
@@ -192,10 +192,10 @@ section {
   width: 100%;
 }
 .green_color {
-  color: #60CD62;
+  color: #60cd62;
 }
 .gallery-item-heading {
-  color: #60CD62;
+  color: #60cd62;
   padding-bottom: 10px;
 }
 .common_padding {
@@ -230,7 +230,7 @@ section {
   right: -12px;
   height: 32px;
   width: 32px;
-  border: 1px solid #60CD62;
+  border: 1px solid #60cd62;
   top: -8px;
   transition: all ease-in-out 0.4s;
   transform: rotate(-45deg);
@@ -264,7 +264,7 @@ section {
 }
 .common_btn:hover {
   color: #fff !important;
-  background-color: #60CD62 !important;
+  background-color: #60cd62 !important;
 }
 .common_title {
   font-size: 44px;
@@ -274,7 +274,7 @@ section {
 }
 .green_title {
   font-size: 40px;
-  color: #60CD62;
+  color: #60cd62;
   margin-bottom: 10px !important;
 }
 .test-title {
@@ -308,7 +308,7 @@ section {
   background-size: 510px;
 }
 .header.header_fixed {
-  border-bottom: 2px solid #60CD62;
+  border-bottom: 2px solid #60cd62;
   top: 0;
   background-color: #23312a;
 }
@@ -345,7 +345,7 @@ section {
   padding: 0px;
 }
 .logo img {
-  max-width: 200px;
+  /* max-width: 200px; */
   cursor: pointer;
   transform: scale3d(1, 1, 1);
   transition: all ease-in-out 0.5s;
@@ -400,8 +400,8 @@ body .header .navbar-collapse {
 }
 .header .navbar ul li a:hover,
 .header .navbar ul li.active a {
-  color: #60CD62;
-  border-bottom-color: #60CD62;
+  color: #60cd62;
+  border-bottom-color: #60cd62;
 }
 .header_toggle {
   cursor: pointer;
@@ -648,7 +648,7 @@ body .header .navbar-collapse {
   right: -6px;
   height: 20px;
   width: 20px;
-  border: 1px solid #60CD62;
+  border: 1px solid #60cd62;
   top: 2px;
   transition: all ease-in-out 0.4s;
   transform: rotate(-45deg);
@@ -684,7 +684,7 @@ body .header .navbar-collapse {
   vertical-align: top;
 }
 .check-in-out-container label {
-  color: #60CD62;
+  color: #60cd62;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -701,7 +701,7 @@ body .header .navbar-collapse {
 .about_hotel_text h2,
 .about-page-text h3 {
   font-size: 54px;
-  color: #60CD62;
+  color: #60cd62;
   text-align: left;
 }
 .about-center-text {
@@ -732,7 +732,7 @@ body .header .navbar-collapse {
   width: 100%;
   height: 100%;
   bottom: -30px;
-  border: 2px solid #60CD62;
+  border: 2px solid #60cd62;
   right: -30px;
   z-index: -1;
 }
@@ -794,7 +794,7 @@ body .header .navbar-collapse {
 .room_price {
   position: absolute;
   bottom: 70px;
-  background-color: #37392D;
+  background-color: #37392d;
   right: -1px;
   z-index: 99;
   padding: 3px 12px;
@@ -841,7 +841,7 @@ body .header .navbar-collapse {
   opacity: 1;
 }
 .rooms_slider .owl-item.center .rooms_slider_text {
-  border-color: #60CD62;
+  border-color: #60cd62;
 }
 .rooms_slider .rooms_slider_text h4 {
   text-transform: uppercase;
@@ -1026,11 +1026,11 @@ body .header .navbar-collapse {
   transition: all ease-in-out 0.4s;
 }
 .post_column a:hover {
-  color: #60CD62;
+  color: #60cd62;
 }
 
 .footer_section {
-  background-color: #37392D;
+  background-color: #37392d;
   padding: 70px 0px 50px;
 }
 .copyright {
@@ -1057,7 +1057,7 @@ body .header .navbar-collapse {
 }
 .footer_address_left,
 .footer_address_right {
-  background-color: #60CD62;
+  background-color: #60cd62;
   padding: 50px 50px !important;
   height: 450px;
 }
@@ -1114,7 +1114,7 @@ body .header .navbar-collapse {
   color: #fff;
 }
 .f_newsletter form input {
-  background-color: #60CD62;
+  background-color: #60cd62;
   width: 100%;
   border: none;
   padding: 0px;
@@ -1152,7 +1152,7 @@ body .header .navbar-collapse {
   background-color: #fff;
 }
 .footer_address_right_inner {
-  border: 2px solid #60CD62;
+  border: 2px solid #60cd62;
   /*  background-image: url('../images/leaf_gold.svg');
   background-position: center;
   background-size: 560px;
@@ -1164,13 +1164,17 @@ body .header .navbar-collapse {
   margin: 12px 0;
 }
 .footer_address_right_inner div h4 {
-  color: #60CD62;
+  color: #60cd62;
   margin-bottom: 5px !important;
 }
-.footer_link_white p, .footer_link_white a, .footer_link_black, .footer_link_black a {
+.footer_link_white p,
+.footer_link_white a,
+.footer_link_black,
+.footer_link_black a {
   color: #000;
 }
-.footer_link_white a:hover, .footer_link_black a:hover {
+.footer_link_white a:hover,
+.footer_link_black a:hover {
   color: #000;
 }
 .common_page_header {
@@ -1278,27 +1282,27 @@ body .header .navbar-collapse {
   padding: 23px 20px;
   left: 0px;
   bottom: -5px;
-  background: #60CD62;
-  background: -moz-linear-gradient(top, #60CD62 0%, #60CD62 50%, #60CD62 100%);
+  background: #60cd62;
+  background: -moz-linear-gradient(top, #60cd62 0%, #60cd62 50%, #60cd62 100%);
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#60CD6242),
+    from(#60cd6242),
     color-stop(50%, #64df2ba1),
-    to(#60CD62)
+    to(#60cd62)
   );
   background: -moz-linear-gradient(
     top,
     #54e26742 0%,
     #60e254a1 50%,
-    #60CD62 100%
+    #60cd62 100%
   );
   background: linear-gradient(
     to bottom,
     #e2545400 0%,
     #60e254a3 50%,
-    #60CD62 100%
+    #60cd62 100%
   );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#60CD62', endColorstr='#60CD62',GradientType=0 );
 }
@@ -1402,7 +1406,7 @@ body .header .navbar-collapse {
 .activities_slider .attraction_column .attraction_column_title {
   bottom: 15px;
   height: auto;
-  background-color: #60CD62a6 !important;
+  background-color: #60cd62a6 !important;
   background: no-repeat;
   width: 95%;
   margin: 0px auto;
@@ -1455,11 +1459,11 @@ body .header .navbar-collapse {
   background-repeat: no-repeat;
 }
 .cont-head-col {
-  color: #60CD62;
+  color: #60cd62;
   font-size: 1.5rem;
 }
 .a-span {
-  color: #60CD62;
+  color: #60cd62;
 }
 .a-span:hover {
   color: #b18058;
@@ -1495,7 +1499,7 @@ body .header .navbar-collapse {
 .contact_left .common_btn,
 .contact_form form button {
   color: #fff !important;
-  background-color: #60CD62 !important;
+  background-color: #60cd62 !important;
   margin-top: 22px;
 }
 .contact_left .common_btn:hover,
@@ -1587,7 +1591,7 @@ input[type="number"] {
   position: absolute;
   height: 10px;
   width: 10px;
-  border: 2px solid #60CD62;
+  border: 2px solid #60cd62;
   top: 9px;
   left: 0px;
   transform: rotate(-45deg);
@@ -1680,8 +1684,8 @@ input[type="number"] {
   top: 16px;
 }
 .is-current a {
-  color: #60CD62 !important;
-  border-left: 1px solid #60CD62;
+  color: #60cd62 !important;
+  border-left: 1px solid #60cd62;
   position: relative;
   padding-left: 25px;
   padding-bottom: 8px;
@@ -1693,15 +1697,15 @@ input[type="number"] {
   content: "";
   width: 9px;
   height: 9px;
-  border: 1px solid #60CD62;
+  border: 1px solid #60cd62;
   left: -5px;
-  background-color: #60CD62;
+  background-color: #60cd62;
   border-radius: 50%;
   top: 16px;
 }
 .is-active a {
-  color: #60CD62 !important;
-  border-left: 1px solid #60CD62;
+  color: #60cd62 !important;
+  border-left: 1px solid #60cd62;
   position: relative;
   padding-left: 25px;
   padding-bottom: 8px;
@@ -1724,8 +1728,8 @@ input[type="number"] {
 }
 .singlepage-bookbtn {
   background: transparent;
-  border: 2px solid #37392D;
-  color: #37392D;
+  border: 2px solid #37392d;
+  color: #37392d;
   padding: 5px 25px;
   font-size: 14px;
   text-transform: uppercase;
@@ -1756,7 +1760,7 @@ input[type="number"] {
   height: 0;
   border-top: 69px solid transparent;
   border-bottom: 0 solid transparent;
-  border-left: 40px solid #60CD6299;
+  border-left: 40px solid #60cd6299;
   position: absolute;
   right: -40px;
 }
@@ -1804,19 +1808,19 @@ input[type="number"] {
   justify-content: center;
   align-items: center;
   margin: 0px auto 8px;
-  background-color: #37392D;
+  background-color: #37392d;
 }
 .wedding_highlights_col span {
   display: flex;
   width: 80px;
   height: 80px;
-  border: 1px solid #37392D;
+  border: 1px solid #37392d;
   border-radius: 50%;
   transition: all ease-in-out 0.5s;
   justify-content: center;
   align-items: center;
   margin: 0px auto 8px;
-  background-color: #37392D;
+  background-color: #37392d;
 }
 /* .facilities_column span:hover {
   background-color: #60CD62;
@@ -1850,7 +1854,7 @@ input[type="number"] {
 .single_room_banner .owl-nav button {
   height: 40px;
   margin-right: 5px !important;
-  background-color: #60CD62 !important;
+  background-color: #60cd62 !important;
   border-radius: 0px !important;
 }
 .gallery_section {
@@ -1880,7 +1884,7 @@ input[type="number"] {
 }
 
 .privacy_column h3 {
-  color: #60CD62;
+  color: #60cd62;
   font-size: 25px;
 }
 .back-to-top {
@@ -1958,16 +1962,16 @@ div.wpcf7 .ajax-loader {
   left: 0px;
   width: 5px;
   height: 5px;
-  background-color: #60CD62;
+  background-color: #60cd62;
   border-radius: 50%;
   top: 10px;
 }
 .privacy_column p a {
-  color: #60CD62;
+  color: #60cd62;
 }
 .room_aminities h2 {
   font-size: 28px;
-  color: #60CD62;
+  color: #60cd62;
   text-transform: uppercase;
 }
 
@@ -2016,16 +2020,16 @@ div.wpcf7 .ajax-loader {
   background-image: url("/room.jpg");
 }
 .safety_inner_1 {
-  background-image: url("/safety.jpeg");
+  background-image: url("/safety.jpg");
 }
 .safety_inner_2 {
   background-image: url("/sanitation.jpg");
 }
 .safety_inner_3 {
-  background-image: url("/safety.jpeg");
+  background-image: url("/restaurant-page/recipe.jpg");
 }
 .safety_inner_4 {
-  background-image: url("/sanitation.jpg");
+  background-image: url("/contact.jpg");
 }
 .gallery_slider_column {
   background-image: url("/banner.jpg");
@@ -2136,7 +2140,7 @@ div.wpcf7 .ajax-loader {
   align-items: center;
 }
 .mobile-header {
-  background-color: #60CD62;
+  background-color: #60cd62;
   height: 100vh;
   position: fixed;
   width: auto;
@@ -2358,7 +2362,7 @@ div.wpcf7 .ajax-loader {
   background-image: url("/menu-3.jpg");
 }
 .menu_title {
-  color: #60CD62;
+  color: #60cd62;
   font-size: 30px;
   padding-bottom: 10px;
 }
@@ -2367,7 +2371,7 @@ div.wpcf7 .ajax-loader {
   justify-content: space-between;
   padding-bottom: 4px;
   margin-bottom: 15px;
-  border-bottom: 0.1em solid #60CD62;
+  border-bottom: 0.1em solid #60cd62;
 }
 .menu-ul {
   padding: 0 !important;
@@ -2396,7 +2400,7 @@ div.wpcf7 .ajax-loader {
   width: 100%;
   height: 100%;
   bottom: -30px;
-  border: 2px solid #60CD62;
+  border: 2px solid #60cd62;
   right: -30px;
   z-index: -1;
 }
@@ -2426,7 +2430,7 @@ div.wpcf7 .ajax-loader {
 
 .res_link_btn a {
   font-size: 16px;
-  color: #60CD62 !important;
+  color: #60cd62 !important;
   transition: all ease-in-out 0.5s;
   text-transform: capitalize;
 }
@@ -2467,7 +2471,7 @@ div.wpcf7 .ajax-loader {
 .insta-gallery-link {
   text-align: center;
   font-size: 18px;
-  color: #60CD62;
+  color: #60cd62;
   margin-bottom: 10px;
   transition: all ease-in-out 0.5s;
 }

@@ -55,14 +55,14 @@ function Contactus() {
   return (
     <>
       <Head>
-        <title>Contact For Shimla TraveL Enquiry | Bob's N Barley</title>
+        <title>Contact For Shimla TraveL Enquiry | Hotel Woodrina</title>
         <meta
           property="og:title"
-          content="Contact | Bob's N Barley"
+          content="Contact | Hotel Woodrina"
         />
         <meta
           property="og:description"
-          content="For any information related to bookings, offers, travel enquiries or for requesting a catalogue, we are here to help you in every | Bob's N Barley"
+          content="For any information related to bookings, offers, travel enquiries or for requesting a catalogue, we are here to help you in every | Hotel Woodrina"
         />
       </Head>
 
@@ -72,7 +72,7 @@ function Contactus() {
             <div className="col-lg-10 col-md-10 col-sm-12 common_page_header_title pages-info">
               <h1 className="common_title white">Contact Us</h1>
               <p className="contact-subtitle">
-                Hotel Bob's N Barley is a perfect weekend getaway near
+                Hotel Hotel Woodrina is a perfect weekend getaway near
                 Dharamshala where guests enjoy unparalleled facilities for
                 relaxation and rejuvenation in the scenic Dhauladhar Hills.
               </p>
@@ -203,7 +203,7 @@ function Contactus() {
                     <label className="form-check-label" htmlFor="exampleCheck1">
                       I have read the
                       <a className="a-span" href="/Privacypolicy">
-                      &nbsp;Bob's N Barley&nbsp;
+                      &nbsp;Hotel Woodrina&nbsp;
                       </a> 
                       policies and I accept the use and treatment of my personal
                       data.
