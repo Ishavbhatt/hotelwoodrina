@@ -50,7 +50,7 @@ function Cancellationpolicy() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 privacy_column">
-              <ul className="privacy_ul ">
+              <ul className="privacy_ul">
                 <li>
                   Early check-in or late check-out is subject to availability
                   and may be chargeable by the hotel directly.

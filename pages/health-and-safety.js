@@ -6,14 +6,14 @@ function Healthsafety() {
   return (
     <>
       <Head>
-        <title>Health & Safety Assurance | Bob's N Barley</title>
+        <title>Health & Safety Assurance | Hotel Woodrina</title>
         <meta
           property="og:title"
-          content="Health & Safety Assurance | Bob's N Barley"
+          content="Health & Safety Assurance | Hotel Woodrina"
         />
         <meta
           property="og:description"
-          content="We care for you, our extensive list of safety measures includes mandatory use of masks, gloves and PPE kits for all our mates, sanitation | Bob's N Barley"
+          content="We care for you, our extensive list of safety measures includes mandatory use of masks, gloves and PPE kits for all our mates, sanitation | Hotel Woodrina"
         />
       </Head>
 

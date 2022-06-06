@@ -1887,6 +1887,9 @@ input[type="number"] {
   color: #60cd62;
   font-size: 25px;
 }
+.termscondition-lists{
+  font-size: 20px;
+}
 .back-to-top {
   position: fixed;
   bottom: 20px;

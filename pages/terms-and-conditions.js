@@ -48,22 +48,22 @@ function Termsandconditions() {
         <div className="container">
           <div className="row">
             <div className="col-md-12 privacy_column">
-              <h3>Conditons</h3>
+              <h3 className="padding-t-20">Conditons:</h3>
               <ul>
-                <li>Site</li>
+                <li className="green_color termscondition-lists padding-t-20">Site</li>
                 <p>
                   The Site makes available information concerning the hotel
                   under the laws of India, and its subsidiaries, controlled
                   entities, affiliates, associates, and related parties.
                 </p>
-                <li>Trade Marks</li>
+                <li className="green_color termscondition-lists padding-t-20">Trade Marks</li>
                 <p>
                   The Site contains trade and service marks and devices and
                   other valuable trade or service marks owned by Hotel Woodrina
                   or licensed to Hotel Woodrina to differentiate its services
                   and products.
                 </p>
-                <li>Copyright</li>
+                <li className="green_color termscondition-lists padding-t-20">Copyright</li>
                 <p>
                   The information, text, graphics, images, sounds, links, and
                   everyone other information published or otherwise contained
@@ -76,7 +76,7 @@ function Termsandconditions() {
                   Hotel Woodrina. Information procured from a 3rd party could
                   also be the topic of copyright owned by that third party.
                 </p>
-                <li>Your Use</li>
+                <li className="green_color termscondition-lists padding-t-20">Your Use</li>
                 <p>
                   The Site is for your personal non-commercial use and therefore
                   the Information could also be downloaded or printed by you
@@ -84,7 +84,7 @@ function Termsandconditions() {
                   be a license only, not a transfer of title, and is subject to
                   the subsequent restrictions:
                 </p>
-                <ul>
+                <ul className="privacy_ul">
                   <li>
                     The Information might not be used for any commercial purpose
                     or public display, performance, sale, or rental.
@@ -101,7 +101,7 @@ function Termsandconditions() {
                     under these Conditions.
                   </li>
                 </ul>
-                <li>Specific Warnings</li>
+                <li className="green_color termscondition-lists padding-t-20">Specific Warnings</li>
                 <p>
                   You must make sure that your access to and your use of the
                   website isn’t illegal or prohibited by laws which apply to
@@ -118,7 +118,7 @@ function Termsandconditions() {
                   sorts of interference which can damage the system of Hotel
                   Woodrina.
                 </p>
-                <li>Security & Non Confidentiality</li>
+                <li className="green_color termscondition-lists padding-t-20">Security & Non Confidentiality</li>
                 <p>
                   Electronic transmissions of knowledge including the web are
                   public media and any use of such media is public, not private.
@@ -130,7 +130,7 @@ function Termsandconditions() {
                   Accordingly, any information which you transmit to Hotel
                   Woodrina is transmitted at your own risk.
                 </p>
-                <li>General</li>
+                <li className="green_color termscondition-lists padding-t-20">General</li>
                 <p>
                   If any of those Conditions are invalid, unenforceable, or
                   illegal for any reason, the remaining Conditions shall
@@ -144,8 +144,8 @@ function Termsandconditions() {
             <div className="col-md-12 privacy_column text-center padding-t-20">
               <p>
                 <strong>
-                  For any queries, suggestions, or complaints please email us at{" "}
-                  <a href="mailto:info@bobsnbarley.com">info@bobsnbarley.com</a>
+                  For any queries, suggestions, or complaints please email us at
+                  <a href="mailto:info@hotelwoodrina.in">&nbsp;info@hotelwoodrina.in</a>
                 </strong>
               </p>
             </div>
